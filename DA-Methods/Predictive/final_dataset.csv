@@ -1,0 +1,1051 @@
+TransactionID,Date,Time,Company,LocationID,City,FuelType,Quantity_Liters,Price_per_Litre,Total_Amount,PaymentMethod,VehicleType,LoyaltyCardUsed,PumpNumber,EmployeeID
+TXN001,03-01-2024,05:44:00,HP,delhi-pump-04,delhi,petrol,26.3,94.46,2484.3,UPI,car,No,3,E-DEL-4
+TXN002,04-02-2025,21:08:00,IOCL,pune-pump-01,pune,diesel,42.89,87.57,3755.88,Card,car,Yes,5,E-PUN-3
+TXN003,25-08-2024,06:39:00,BPCL,mumbai-pump-02,mumbai,diesel,10.42,88.11,918.11,Card,bike,Yes,1,E-MUM-2
+TXN004,05-01-2025,15:20:00,IOCL,bangalore-pump-07,bangalore,petrol,14.49,95.1,1378,Cash,bike,No,2,E-BAN-1
+TXN005,09-04-2025,19:52:00,HP,mumbai-pump-02,mumbai,diesel,39.37,87.21,3433.46,Cash,car,No,5,E-MUM-5
+TXN006,28-04-2024,10:38:00,BPCL,mumbai-pump-02,mumbai,diesel,13.49,87.55,1181.05,UPI,bike,Yes,4,E-MUM-1
+TXN007,24-11-2025,14:31:00,BPCL,chennai-pump-05,chennai,petrol,6.35,94.92,602.74,UPI,bike,Yes,1,E-CHE-4
+TXN008,06-11-2025,01:45:00,HP,chennai-pump-03,chennai,petrol,41.2,95.01,3914.41,UPI,car,Yes,1,E-CHE-4
+TXN009,06-09-2025,01:46:00,IOCL,delhi-pump-01,delhi,diesel,7.04,87.56,616.42,Cash,bike,No,5,E-DEL-3
+TXN010,05-04-2024,20:15:00,IOCL,pune-pump-06,pune,diesel,15.36,88.05,1352.45,Card,car,No,1,E-PUN-5
+TXN011,13-10-2025,01:48:00,BPCL,pune-pump-01,pune,diesel,5.16,87.76,452.84,Cash,bike,Yes,1,E-PUN-5
+TXN012,18-06-2025,04:48:00,IOCL,pune-pump-06,pune,diesel,14.94,87.33,1304.71,Card,bike,Yes,4,E-PUN-1
+TXN013,24-07-2025,21:11:00,BPCL,mumbai-pump-02,mumbai,petrol,40.42,94.75,3829.8,Cash,car,Yes,2,E-MUM-2
+TXN014,19-01-2024,05:04:00,BPCL,mumbai-pump-02,mumbai,power petrol,14.46,99.23,1434.87,Cash,bike,Yes,3,E-MUM-5
+TXN015,20-06-2025,16:52:00,BPCL,mumbai-pump-02,mumbai,power petrol,14.36,99.88,1434.28,Card,bike,Yes,2,E-MUM-5
+TXN016,01-03-2025,02:25:00,IOCL,bangalore-pump-07,bangalore,power petrol,38.15,99.6,3799.74,UPI,car,Yes,2,E-BAN-4
+TXN017,01-01-2025,18:44:00,IOCL,delhi-pump-01,delhi,petrol,13.86,95.08,1317.81,Cash,bike,Yes,2,E-DEL-3
+TXN018,31-03-2025,13:22:00,HP,bangalore-pump-07,bangalore,diesel,35.4,87.73,3105.64,Card,car,No,5,E-BAN-5
+TXN019,13-11-2025,19:16:00,HP,chennai-pump-05,chennai,petrol,32.75,94.55,3096.51,UPI,car,Yes,1,E-CHE-1
+TXN020,05-10-2025,17:34:00,IOCL,pune-pump-01,pune,diesel,8.07,88.11,711.05,Card,bike,Yes,1,E-PUN-3
+TXN021,11-08-2024,21:30:00,BPCL,delhi-pump-01,delhi,power petrol,13.1,99.58,1304.5,UPI,bike,No,1,E-DEL-4
+TXN022,16-05-2025,05:43:00,HP,mumbai-pump-02,mumbai,power petrol,11.45,99.87,1143.51,Cash,bike,Yes,3,E-MUM-3
+TXN023,17-05-2025,11:26:00,BPCL,chennai-pump-03,chennai,diesel,7.41,88.05,652.45,Card,bike,No,4,E-CHE-1
+TXN024,23-05-2024,02:47:00,IOCL,chennai-pump-05,chennai,power petrol,10.25,99.61,1021,Cash,bike,Yes,3,E-CHE-1
+TXN025,20-04-2024,19:31:00,BPCL,delhi-pump-04,delhi,petrol,44.61,95.02,4238.84,Card,car,No,4,E-DEL-3
+TXN026,18-06-2025,01:44:00,BPCL,mumbai-pump-02,mumbai,diesel,6.42,87.28,560.34,Cash,bike,No,2,E-MUM-5
+TXN027,17-09-2024,13:55:00,BPCL,delhi-pump-01,delhi,power petrol,5.53,99.01,547.53,Cash,bike,Yes,4,E-DEL-4
+TXN028,10-01-2024,01:42:00,HP,chennai-pump-03,chennai,petrol,15.56,94.68,1473.22,Card,car,Yes,4,E-CHE-2
+TXN029,07-12-2025,09:06:00,HP,bangalore-pump-07,bangalore,diesel,14.89,87.56,1303.77,Card,bike,Yes,4,E-BAN-3
+TXN030,04-07-2025,19:41:00,BPCL,pune-pump-06,pune,petrol,6.6,94.68,624.89,Card,bike,No,5,E-PUN-5
+TXN031,25-04-2025,20:14:00,IOCL,pune-pump-06,pune,petrol,27.17,94.39,2564.58,UPI,car,Yes,5,E-PUN-3
+TXN032,02-02-2024,23:34:00,IOCL,delhi-pump-04,delhi,power petrol,49.12,99.92,4908.07,UPI,car,No,4,E-DEL-5
+TXN033,15-04-2024,23:42:00,HP,delhi-pump-04,delhi,petrol,42.16,95.18,4012.79,UPI,car,Yes,2,E-DEL-3
+TXN034,20-09-2025,02:08:00,HP,mumbai-pump-04,mumbai,power petrol,44.29,99.63,4412.61,Card,car,No,3,E-MUM-4
+TXN035,20-04-2024,15:55:00,HP,delhi-pump-04,delhi,power petrol,38.98,98.97,3857.85,Card,car,No,2,E-DEL-5
+TXN036,07-07-2025,00:07:00,BPCL,chennai-pump-05,chennai,diesel,36.17,87.64,3169.94,Cash,car,No,2,E-CHE-4
+TXN037,21-06-2025,02:14:00,IOCL,chennai-pump-03,chennai,diesel,11.7,87.92,1028.66,Cash,bike,No,2,E-CHE-2
+TXN038,07-09-2025,15:05:00,BPCL,delhi-pump-01,delhi,petrol,47.09,95.19,4482.5,Card,car,No,3,E-DEL-4
+TXN039,23-06-2024,03:01:00,HP,delhi-pump-04,delhi,diesel,27.32,87.58,2392.69,Card,car,No,3,E-DEL-2
+TXN040,17-09-2024,07:41:00,IOCL,chennai-pump-05,chennai,petrol,11.84,94.6,1120.06,Card,bike,Yes,5,E-CHE-3
+TXN041,29-05-2025,15:01:00,BPCL,chennai-pump-03,chennai,petrol,10.66,95.05,1013.23,UPI,bike,Yes,4,E-CHE-3
+TXN042,02-01-2024,09:18:00,BPCL,chennai-pump-05,chennai,diesel,49.29,87.77,4326.18,UPI,car,Yes,2,E-CHE-4
+TXN043,13-07-2025,19:32:00,BPCL,pune-pump-06,pune,diesel,11.09,88.11,977.14,Card,bike,Yes,3,E-PUN-2
+TXN044,08-02-2025,06:42:00,HP,chennai-pump-05,chennai,power petrol,9.06,99.01,897.03,Cash,bike,No,4,E-CHE-3
+TXN045,15-05-2025,21:40:00,IOCL,chennai-pump-03,chennai,power petrol,9.83,99.77,980.74,Card,bike,No,1,E-CHE-5
+TXN046,31-08-2024,10:04:00,BPCL,chennai-pump-05,chennai,power petrol,13.21,99.35,1312.41,Card,bike,Yes,3,E-CHE-1
+TXN047,03-01-2025,21:22:00,IOCL,mumbai-pump-02,mumbai,petrol,10.32,94.75,977.82,UPI,bike,No,1,E-MUM-3
+TXN048,24-12-2025,08:56:00,IOCL,delhi-pump-01,delhi,diesel,12.62,87.8,1108.04,Cash,bike,No,5,E-DEL-3
+TXN049,15-07-2024,13:35:00,IOCL,chennai-pump-03,chennai,petrol,29.49,94.35,2782.38,Cash,car,Yes,3,E-CHE-3
+TXN050,07-11-2024,18:19:00,HP,mumbai-pump-04,mumbai,power petrol,28.46,99.38,2828.35,UPI,car,No,3,E-MUM-3
+TXN051,23-09-2025,05:43:00,BPCL,chennai-pump-05,chennai,power petrol,40.96,99.64,4081.25,Cash,car,No,5,E-CHE-2
+TXN052,25-03-2025,09:55:00,IOCL,chennai-pump-03,chennai,power petrol,43.87,99.56,4367.7,Card,car,No,5,E-CHE-1
+TXN053,08-07-2024,03:18:00,IOCL,pune-pump-06,pune,power petrol,41.12,99.29,4082.8,Card,car,No,1,E-PUN-4
+TXN054,05-04-2024,23:43:00,HP,delhi-pump-04,delhi,petrol,45.32,94.88,4299.96,Cash,car,Yes,4,E-DEL-3
+TXN055,25-11-2024,22:38:00,IOCL,mumbai-pump-02,mumbai,diesel,18.24,87.64,1598.55,Card,car,No,1,E-MUM-4
+TXN056,15-03-2025,01:49:00,HP,pune-pump-06,pune,power petrol,34.38,99.59,3423.9,UPI,car,No,4,E-PUN-2
+TXN057,01-02-2025,11:11:00,HP,chennai-pump-03,chennai,diesel,27.76,87.87,2439.27,Cash,car,No,3,E-CHE-3
+TXN058,17-09-2024,03:25:00,BPCL,delhi-pump-04,delhi,power petrol,5.99,98.99,592.95,UPI,bike,Yes,2,E-DEL-2
+TXN059,15-12-2025,00:23:00,HP,chennai-pump-03,chennai,petrol,19.66,95.2,1871.63,Cash,car,No,1,E-CHE-1
+TXN060,09-03-2024,04:15:00,IOCL,delhi-pump-04,delhi,power petrol,19.35,99.83,1931.71,UPI,car,No,4,E-DEL-3
+TXN061,30-10-2025,01:15:00,HP,mumbai-pump-02,mumbai,diesel,27.02,88.08,2379.92,Card,car,Yes,2,E-MUM-4
+TXN062,16-10-2024,09:14:00,HP,delhi-pump-01,delhi,power petrol,14.76,99.56,1469.51,UPI,bike,Yes,2,E-DEL-5
+TXN063,18-11-2025,04:52:00,HP,bangalore-pump-07,bangalore,diesel,12.43,87.99,1093.72,UPI,bike,Yes,3,E-BAN-2
+TXN064,24-11-2024,19:49:00,IOCL,bangalore-pump-07,bangalore,power petrol,36.47,99.33,3622.57,Card,car,Yes,3,E-BAN-5
+TXN065,24-09-2024,11:44:00,BPCL,chennai-pump-05,chennai,petrol,27.26,95.05,2591.06,UPI,car,Yes,2,E-CHE-2
+TXN066,22-08-2025,23:26:00,IOCL,mumbai-pump-04,mumbai,power petrol,17.12,99.43,1702.24,UPI,car,No,2,E-MUM-4
+TXN067,29-09-2025,02:19:00,HP,bangalore-pump-07,bangalore,power petrol,14.74,99.33,1464.12,UPI,bike,Yes,5,E-BAN-3
+TXN068,01-06-2025,23:58:00,IOCL,pune-pump-01,pune,power petrol,30.12,99.59,2999.65,Card,car,No,2,E-PUN-3
+TXN069,02-11-2025,17:37:00,HP,chennai-pump-03,chennai,power petrol,5.62,99.78,560.76,Cash,bike,Yes,5,E-CHE-5
+TXN070,05-08-2025,23:47:00,IOCL,mumbai-pump-02,mumbai,petrol,8.24,94.54,779.01,Cash,bike,No,4,E-MUM-2
+TXN071,07-01-2025,07:39:00,BPCL,mumbai-pump-02,mumbai,petrol,34.88,94.74,3304.53,UPI,car,No,5,E-MUM-1
+TXN072,10-05-2024,04:52:00,HP,bangalore-pump-07,bangalore,petrol,46.57,94.73,4411.58,Cash,car,Yes,1,E-BAN-5
+TXN073,28-05-2025,14:36:00,HP,pune-pump-06,pune,diesel,32.02,87.88,2813.92,Card,car,Yes,2,E-PUN-2
+TXN074,28-02-2025,00:28:00,HP,mumbai-pump-02,mumbai,power petrol,20.58,99.68,2051.41,UPI,car,Yes,2,E-MUM-5
+TXN075,13-10-2024,16:10:00,BPCL,chennai-pump-05,chennai,petrol,7.15,94.81,677.89,Cash,bike,No,5,E-CHE-2
+TXN076,24-10-2025,21:41:00,BPCL,bangalore-pump-07,bangalore,petrol,45.01,94.97,4274.6,Cash,car,Yes,4,E-BAN-4
+TXN077,16-02-2025,05:40:00,BPCL,pune-pump-06,pune,petrol,32.52,94.81,3083.22,Card,car,No,3,E-PUN-1
+TXN078,31-10-2025,11:25:00,IOCL,pune-pump-01,pune,diesel,12.57,87.39,1098.49,UPI,bike,No,1,E-PUN-1
+TXN079,17-12-2025,13:56:00,IOCL,delhi-pump-01,delhi,petrol,22.23,95.18,2115.85,Card,car,Yes,4,E-DEL-3
+TXN080,14-03-2025,14:17:00,BPCL,bangalore-pump-07,bangalore,petrol,48.57,94.32,4581.12,Card,car,No,4,E-BAN-1
+TXN081,14-02-2025,20:06:00,BPCL,bangalore-pump-07,bangalore,diesel,7.87,87.72,690.36,UPI,bike,No,3,E-BAN-2
+TXN082,24-08-2025,13:42:00,HP,bangalore-pump-07,bangalore,diesel,41.49,87.71,3639.09,Card,car,No,2,E-BAN-5
+TXN083,24-07-2024,18:39:00,IOCL,chennai-pump-03,chennai,diesel,42.13,87.38,3681.32,Card,car,Yes,2,E-CHE-5
+TXN084,23-03-2025,00:55:00,IOCL,bangalore-pump-07,bangalore,petrol,47.91,94.96,4549.53,Cash,car,No,5,E-BAN-3
+TXN085,22-09-2025,13:13:00,BPCL,pune-pump-01,pune,petrol,12.16,94.25,1146.08,Card,bike,No,5,E-PUN-4
+TXN086,19-05-2025,21:59:00,BPCL,chennai-pump-05,chennai,power petrol,6.05,99.4,601.37,UPI,bike,No,2,E-CHE-4
+TXN087,17-12-2025,13:27:00,IOCL,bangalore-pump-07,bangalore,petrol,14.37,94.7,1360.84,Card,bike,No,2,E-BAN-1
+TXN088,21-12-2025,01:00:00,BPCL,pune-pump-01,pune,power petrol,46.29,99.67,4613.72,UPI,car,No,2,E-PUN-2
+TXN089,20-04-2024,10:52:00,IOCL,pune-pump-06,pune,power petrol,13.19,99.36,1310.56,UPI,bike,No,1,E-PUN-2
+TXN090,28-12-2024,13:21:00,IOCL,pune-pump-06,pune,diesel,45.04,87.31,3932.44,Cash,car,Yes,3,E-PUN-2
+TXN091,23-08-2025,11:46:00,HP,mumbai-pump-02,mumbai,diesel,25.27,87.39,2208.35,UPI,car,No,4,E-MUM-1
+TXN092,19-05-2024,08:56:00,BPCL,pune-pump-01,pune,diesel,8.95,87.9,786.71,UPI,bike,No,4,E-PUN-2
+TXN093,13-02-2024,15:37:00,BPCL,pune-pump-01,pune,power petrol,41.01,99.04,4061.63,UPI,car,No,2,E-PUN-2
+TXN094,04-12-2025,08:30:00,BPCL,chennai-pump-05,chennai,diesel,10.89,88.1,959.41,Cash,bike,No,1,E-CHE-5
+TXN095,13-01-2024,15:58:00,HP,delhi-pump-01,delhi,petrol,5.77,94.67,546.25,UPI,bike,Yes,1,E-DEL-1
+TXN096,03-06-2025,17:11:00,BPCL,mumbai-pump-04,mumbai,power petrol,29.08,99.9,2905.09,Card,car,Yes,3,E-MUM-1
+TXN097,15-03-2024,09:35:00,BPCL,bangalore-pump-07,bangalore,diesel,6.12,87.66,536.48,UPI,bike,No,2,E-BAN-2
+TXN098,16-08-2024,07:42:00,HP,chennai-pump-05,chennai,diesel,5.09,87.66,446.19,Card,bike,Yes,4,E-CHE-1
+TXN099,08-06-2025,14:52:00,HP,pune-pump-01,pune,petrol,12.75,94.75,1208.06,Card,bike,Yes,3,E-PUN-2
+TXN100,07-06-2025,10:54:00,HP,delhi-pump-01,delhi,power petrol,42.16,99.22,4183.12,Cash,car,Yes,5,E-DEL-4
+TXN101,09-07-2025,12:00:00,BPCL,delhi-pump-01,delhi,petrol,26.36,94.84,2499.98,UPI,car,No,1,E-DEL-3
+TXN102,27-01-2025,21:27:00,IOCL,chennai-pump-03,chennai,power petrol,18.2,99.88,1817.82,UPI,car,Yes,5,E-CHE-5
+TXN103,15-12-2024,17:35:00,BPCL,delhi-pump-01,delhi,diesel,41.78,87.13,3640.29,Card,car,Yes,3,E-DEL-2
+TXN104,09-07-2024,12:52:00,HP,chennai-pump-03,chennai,petrol,6.65,94.7,629.76,UPI,bike,No,5,E-CHE-4
+TXN105,11-10-2024,23:28:00,HP,pune-pump-01,pune,petrol,37.72,94.49,3564.16,Card,car,Yes,4,E-PUN-2
+TXN106,17-10-2024,18:02:00,HP,pune-pump-01,pune,power petrol,38.35,99.87,3830.01,Cash,car,No,1,E-PUN-1
+TXN107,16-05-2024,18:42:00,IOCL,pune-pump-06,pune,power petrol,48.56,99.83,4847.74,Cash,car,Yes,5,E-PUN-5
+TXN108,22-06-2024,18:05:00,BPCL,pune-pump-06,pune,petrol,34.36,94.36,3242.21,Card,car,Yes,5,E-PUN-1
+TXN109,01-11-2024,04:28:00,HP,mumbai-pump-04,mumbai,power petrol,45.35,99.68,4520.49,Card,car,Yes,5,E-MUM-1
+TXN110,21-09-2025,21:46:00,BPCL,mumbai-pump-04,mumbai,petrol,10.43,94.47,985.32,Cash,bike,No,2,E-MUM-4
+TXN111,12-09-2025,13:36:00,BPCL,chennai-pump-03,chennai,diesel,11.95,87.35,1043.83,UPI,bike,Yes,4,E-CHE-3
+TXN112,12-07-2024,07:09:00,IOCL,pune-pump-06,pune,power petrol,35.84,99.5,3566.08,Card,car,No,3,E-PUN-3
+TXN113,09-08-2025,19:48:00,HP,delhi-pump-01,delhi,diesel,36.69,87.87,3223.95,Cash,car,Yes,5,E-DEL-4
+TXN114,29-12-2024,14:28:00,HP,pune-pump-01,pune,diesel,27.71,87.92,2436.26,UPI,car,Yes,1,E-PUN-5
+TXN115,26-04-2025,08:22:00,HP,mumbai-pump-04,mumbai,petrol,30.74,94.6,2908,UPI,car,Yes,1,E-MUM-4
+TXN116,21-06-2025,06:03:00,BPCL,bangalore-pump-07,bangalore,diesel,5.8,88.09,510.92,Card,bike,No,3,E-BAN-2
+TXN117,31-05-2024,02:34:00,BPCL,pune-pump-06,pune,petrol,24.37,94.77,2309.54,UPI,car,No,4,E-PUN-2
+TXN118,16-09-2025,09:18:00,IOCL,pune-pump-06,pune,power petrol,21.68,99.47,2156.51,Cash,car,No,4,E-PUN-3
+TXN119,15-08-2024,02:39:00,HP,bangalore-pump-07,bangalore,diesel,27.65,87.34,2414.95,Cash,car,No,2,E-BAN-4
+TXN120,17-10-2025,11:26:00,IOCL,delhi-pump-04,delhi,petrol,8.31,95.02,789.62,Card,bike,No,5,E-DEL-2
+TXN121,05-06-2024,22:03:00,BPCL,chennai-pump-05,chennai,diesel,10.78,87.39,942.06,Card,bike,Yes,1,E-CHE-4
+TXN122,24-11-2025,01:40:00,IOCL,delhi-pump-01,delhi,petrol,44.06,94.68,4171.6,Cash,car,Yes,3,E-DEL-1
+TXN123,04-04-2024,10:03:00,BPCL,chennai-pump-05,chennai,power petrol,46.07,99.84,4599.63,Cash,car,Yes,1,E-CHE-4
+TXN124,25-09-2025,00:58:00,HP,pune-pump-06,pune,petrol,41.5,94.74,3931.71,Card,car,No,1,E-PUN-2
+TXN125,06-12-2025,00:19:00,IOCL,pune-pump-01,pune,power petrol,30.31,99.59,3018.57,Card,car,Yes,1,E-PUN-2
+TXN126,28-07-2025,09:42:00,BPCL,delhi-pump-01,delhi,power petrol,46.48,99.54,4626.62,Card,car,No,1,E-DEL-1
+TXN127,17-11-2024,19:33:00,BPCL,chennai-pump-03,chennai,diesel,31.71,87.2,2765.11,UPI,car,Yes,1,E-CHE-4
+TXN128,09-07-2025,13:55:00,BPCL,mumbai-pump-02,mumbai,petrol,9.45,94.56,893.59,Card,bike,Yes,4,E-MUM-3
+TXN129,18-03-2025,17:30:00,BPCL,pune-pump-06,pune,power petrol,9.86,99.22,978.31,Cash,bike,Yes,1,E-PUN-3
+TXN130,10-08-2024,15:09:00,BPCL,delhi-pump-01,delhi,petrol,27.17,94.29,2561.86,Card,car,Yes,1,E-DEL-5
+TXN131,25-12-2024,12:47:00,BPCL,mumbai-pump-02,mumbai,diesel,48.24,87.71,4231.13,UPI,car,Yes,3,E-MUM-4
+TXN132,01-09-2025,13:50:00,IOCL,chennai-pump-05,chennai,petrol,13.21,94.61,1249.8,Cash,bike,No,1,E-CHE-5
+TXN133,28-05-2024,15:35:00,IOCL,chennai-pump-05,chennai,diesel,38.31,87.2,3340.63,UPI,car,Yes,3,E-CHE-5
+TXN134,01-08-2025,12:55:00,BPCL,pune-pump-06,pune,diesel,10.4,87.76,912.7,UPI,bike,Yes,2,E-PUN-3
+TXN135,23-10-2025,15:39:00,BPCL,pune-pump-01,pune,diesel,10.96,87.31,956.92,Card,bike,Yes,3,E-PUN-5
+TXN136,22-07-2025,13:01:00,BPCL,delhi-pump-01,delhi,power petrol,7.34,99.7,731.8,UPI,bike,No,4,E-DEL-3
+TXN137,01-01-2024,16:30:00,BPCL,delhi-pump-04,delhi,diesel,38.06,87.77,3340.53,Cash,car,Yes,5,E-DEL-5
+TXN138,19-09-2024,19:16:00,IOCL,mumbai-pump-02,mumbai,diesel,17.14,87.28,1495.98,Cash,car,Yes,2,E-MUM-3
+TXN139,09-03-2024,15:32:00,BPCL,bangalore-pump-07,bangalore,petrol,14.69,94.73,1391.58,Card,bike,No,2,E-BAN-4
+TXN140,29-01-2025,20:52:00,IOCL,pune-pump-06,pune,power petrol,5.55,99.88,554.33,UPI,bike,No,1,E-PUN-4
+TXN141,18-04-2025,06:24:00,BPCL,chennai-pump-03,chennai,petrol,18.13,94.92,1720.9,Cash,car,No,2,E-CHE-5
+TXN142,02-06-2024,04:51:00,HP,pune-pump-06,pune,petrol,44.87,94.92,4259.06,Card,car,No,2,E-PUN-5
+TXN143,27-12-2024,04:33:00,IOCL,delhi-pump-04,delhi,diesel,43.47,87.95,3823.19,Cash,car,Yes,2,E-DEL-5
+TXN144,29-01-2025,06:07:00,IOCL,mumbai-pump-02,mumbai,diesel,13.58,87.6,1189.61,UPI,bike,No,5,E-MUM-2
+TXN145,14-06-2025,11:42:00,IOCL,bangalore-pump-07,bangalore,power petrol,47.91,99.43,4763.69,Card,car,No,1,E-BAN-5
+TXN146,06-12-2024,00:57:00,HP,bangalore-pump-07,bangalore,petrol,5.69,95.2,541.69,UPI,bike,No,1,E-BAN-5
+TXN147,13-03-2024,05:50:00,HP,pune-pump-06,pune,diesel,10.98,87.75,963.5,UPI,bike,Yes,3,E-PUN-4
+TXN148,13-12-2024,16:25:00,IOCL,delhi-pump-04,delhi,power petrol,7.81,99.22,774.91,UPI,bike,No,3,E-DEL-4
+TXN149,28-07-2025,13:34:00,IOCL,mumbai-pump-04,mumbai,petrol,30.11,95.17,2865.57,Cash,car,No,3,E-MUM-2
+TXN150,17-03-2025,11:56:00,IOCL,mumbai-pump-02,mumbai,power petrol,7.05,99.68,702.74,Cash,bike,No,1,E-MUM-5
+TXN151,25-11-2025,21:42:00,BPCL,delhi-pump-01,delhi,power petrol,39.11,99.32,3884.41,UPI,car,Yes,5,E-DEL-3
+TXN152,02-04-2025,18:33:00,BPCL,delhi-pump-01,delhi,diesel,46.23,88.11,4073.33,Cash,car,No,1,E-DEL-2
+TXN153,14-04-2024,05:23:00,BPCL,pune-pump-01,pune,petrol,47.05,94.87,4463.63,Cash,car,No,1,E-PUN-2
+TXN154,25-06-2025,23:08:00,HP,pune-pump-06,pune,petrol,7.55,94.92,716.65,Cash,bike,Yes,1,E-PUN-2
+TXN155,31-08-2025,17:12:00,HP,pune-pump-06,pune,diesel,12.21,87.48,1068.13,Card,bike,Yes,2,E-PUN-3
+TXN156,14-08-2025,03:10:00,BPCL,delhi-pump-04,delhi,diesel,17.11,87.43,1495.93,UPI,car,No,1,E-DEL-4
+TXN157,24-07-2024,21:53:00,HP,bangalore-pump-07,bangalore,power petrol,8.55,99.09,847.22,UPI,bike,Yes,2,E-BAN-4
+TXN158,07-03-2024,05:19:00,IOCL,delhi-pump-01,delhi,diesel,10.93,88.01,961.95,Card,bike,No,1,E-DEL-2
+TXN159,06-03-2025,09:56:00,HP,chennai-pump-05,chennai,power petrol,5.07,99.43,504.11,Cash,bike,No,5,E-CHE-1
+TXN160,18-11-2025,09:43:00,BPCL,chennai-pump-05,chennai,diesel,38.63,87.38,3375.49,Card,car,No,3,E-CHE-4
+TXN161,29-12-2025,22:58:00,IOCL,chennai-pump-03,chennai,petrol,42.06,94.61,3979.3,Card,car,No,1,E-CHE-1
+TXN162,01-07-2025,04:08:00,HP,pune-pump-01,pune,power petrol,14.23,98.96,1408.2,UPI,bike,No,4,E-PUN-4
+TXN163,22-07-2025,22:45:00,HP,pune-pump-06,pune,petrol,5.18,94.23,488.11,Card,bike,Yes,3,E-PUN-3
+TXN164,06-06-2025,00:04:00,IOCL,pune-pump-01,pune,petrol,45.75,94.84,4338.93,UPI,car,No,4,E-PUN-3
+TXN165,09-05-2024,14:20:00,IOCL,pune-pump-06,pune,petrol,28.27,94.38,2668.12,Card,car,No,4,E-PUN-1
+TXN166,04-10-2024,05:54:00,HP,delhi-pump-01,delhi,diesel,9.09,87.33,793.83,UPI,bike,No,2,E-DEL-1
+TXN167,09-09-2025,13:25:00,IOCL,mumbai-pump-04,mumbai,diesel,10.7,88.03,941.92,UPI,bike,No,3,E-MUM-4
+TXN168,25-09-2024,14:40:00,HP,delhi-pump-01,delhi,power petrol,6.95,99.63,692.43,Card,bike,No,3,E-DEL-1
+TXN169,19-04-2025,05:40:00,IOCL,delhi-pump-01,delhi,diesel,9.31,87.91,818.44,UPI,bike,No,5,E-DEL-5
+TXN170,01-07-2024,20:37:00,BPCL,delhi-pump-01,delhi,petrol,21.35,94.22,2011.6,Cash,car,Yes,3,E-DEL-5
+TXN171,13-01-2024,21:33:00,IOCL,chennai-pump-03,chennai,petrol,7.56,94.8,716.69,Cash,bike,No,4,E-CHE-5
+TXN172,03-04-2025,22:30:00,BPCL,mumbai-pump-04,mumbai,diesel,18.59,87.2,1621.05,UPI,car,Yes,4,E-MUM-2
+TXN173,18-05-2024,07:24:00,IOCL,pune-pump-06,pune,power petrol,38.7,99.6,3854.52,UPI,car,Yes,5,E-PUN-4
+TXN174,28-02-2025,17:42:00,BPCL,mumbai-pump-04,mumbai,diesel,7.13,87.15,621.38,Cash,bike,Yes,5,E-MUM-2
+TXN175,23-03-2025,21:27:00,HP,bangalore-pump-07,bangalore,petrol,6.45,95.02,612.88,Cash,bike,Yes,1,E-BAN-1
+TXN176,27-02-2024,13:18:00,HP,mumbai-pump-02,mumbai,petrol,37.76,95.12,3591.73,Cash,car,No,5,E-MUM-4
+TXN177,16-06-2024,08:54:00,IOCL,pune-pump-06,pune,power petrol,38.09,99.12,3775.48,Card,car,No,4,E-PUN-5
+TXN178,24-01-2024,17:44:00,IOCL,delhi-pump-04,delhi,petrol,15.3,95.03,1453.96,UPI,car,No,3,E-DEL-3
+TXN179,09-07-2024,07:29:00,BPCL,chennai-pump-03,chennai,diesel,49.87,87.62,4369.61,Card,car,Yes,4,E-CHE-4
+TXN180,15-11-2025,03:15:00,BPCL,delhi-pump-01,delhi,power petrol,15.6,99.12,1546.27,Card,car,Yes,5,E-DEL-1
+TXN181,19-01-2025,01:56:00,BPCL,delhi-pump-01,delhi,petrol,30.01,95.02,2851.55,Card,car,No,5,E-DEL-2
+TXN182,09-09-2024,06:11:00,IOCL,pune-pump-01,pune,power petrol,23.9,99.71,2383.07,Cash,car,No,4,E-PUN-1
+TXN183,07-05-2025,04:45:00,HP,chennai-pump-03,chennai,power petrol,39.7,99.24,3939.83,Cash,car,Yes,5,E-CHE-1
+TXN184,07-12-2024,01:34:00,BPCL,mumbai-pump-04,mumbai,petrol,21.15,95.21,2013.69,UPI,car,No,4,E-MUM-1
+TXN185,28-07-2025,19:52:00,BPCL,chennai-pump-03,chennai,petrol,10.59,94.63,1002.13,Card,bike,No,4,E-CHE-3
+TXN186,27-08-2024,00:35:00,BPCL,chennai-pump-05,chennai,petrol,36.07,94.58,3411.5,UPI,car,Yes,3,E-CHE-5
+TXN187,06-04-2024,01:31:00,IOCL,delhi-pump-04,delhi,petrol,37.23,94.39,3514.14,UPI,car,No,5,E-DEL-5
+TXN188,22-09-2025,06:26:00,IOCL,bangalore-pump-07,bangalore,petrol,29.29,94.68,2773.18,UPI,car,Yes,4,E-BAN-4
+TXN189,11-03-2024,02:20:00,BPCL,mumbai-pump-04,mumbai,petrol,28.41,94.59,2687.3,UPI,car,Yes,2,E-MUM-3
+TXN190,16-07-2024,03:46:00,HP,chennai-pump-03,chennai,petrol,18.16,95.08,1726.65,Cash,car,No,4,E-CHE-5
+TXN191,29-02-2024,08:15:00,IOCL,bangalore-pump-07,bangalore,diesel,45.78,88.11,4033.68,Card,car,No,2,E-BAN-1
+TXN192,19-08-2024,21:25:00,BPCL,pune-pump-06,pune,petrol,45.6,95.07,4335.19,Card,car,Yes,5,E-PUN-2
+TXN193,08-02-2025,08:49:00,BPCL,delhi-pump-01,delhi,petrol,10.05,94.24,947.11,UPI,bike,No,3,E-DEL-3
+TXN194,27-01-2025,10:07:00,BPCL,mumbai-pump-02,mumbai,power petrol,10.78,99.15,1068.84,Cash,bike,Yes,1,E-MUM-4
+TXN195,13-01-2024,04:39:00,IOCL,pune-pump-06,pune,diesel,18.16,87.48,1588.64,UPI,car,No,1,E-PUN-4
+TXN196,21-03-2024,09:13:00,IOCL,chennai-pump-03,chennai,diesel,9.5,87.78,833.91,Card,bike,No,4,E-CHE-3
+TXN197,21-07-2025,08:24:00,BPCL,delhi-pump-04,delhi,power petrol,27.11,99.5,2697.45,Card,car,No,3,E-DEL-5
+TXN198,27-04-2024,20:23:00,HP,pune-pump-06,pune,diesel,47.92,87.24,4180.54,Cash,car,No,3,E-PUN-2
+TXN199,02-04-2025,22:14:00,BPCL,delhi-pump-04,delhi,diesel,11.04,87.72,968.43,Cash,bike,No,2,E-DEL-5
+TXN200,25-08-2024,01:50:00,BPCL,chennai-pump-03,chennai,power petrol,16.09,99.44,1599.99,Cash,car,Yes,2,E-CHE-1
+TXN201,01-03-2025,10:07:00,IOCL,chennai-pump-05,chennai,power petrol,15.61,99.52,1553.51,UPI,car,Yes,3,E-CHE-3
+TXN202,08-05-2025,18:49:00,HP,chennai-pump-03,chennai,petrol,41.09,94.65,3889.17,Card,car,Yes,5,E-CHE-4
+TXN203,01-02-2025,03:19:00,BPCL,bangalore-pump-07,bangalore,power petrol,9.69,98.97,959.02,Card,bike,Yes,1,E-BAN-4
+TXN204,28-08-2024,14:27:00,BPCL,delhi-pump-04,delhi,petrol,14.64,94.79,1387.73,UPI,bike,No,2,E-DEL-3
+TXN205,28-12-2025,02:27:00,HP,pune-pump-06,pune,diesel,9.29,87.58,813.62,Cash,bike,No,3,E-PUN-5
+TXN206,08-12-2024,04:58:00,HP,delhi-pump-01,delhi,petrol,13.42,94.59,1269.4,Card,bike,No,2,E-DEL-3
+TXN207,11-06-2024,20:40:00,BPCL,mumbai-pump-04,mumbai,power petrol,11.28,99.25,1119.54,Card,bike,Yes,5,E-MUM-4
+TXN208,03-05-2024,01:27:00,IOCL,pune-pump-01,pune,petrol,28.58,94.73,2707.38,Cash,car,Yes,5,E-PUN-1
+TXN209,19-09-2025,10:52:00,BPCL,mumbai-pump-04,mumbai,petrol,9.29,94.51,878,Cash,bike,Yes,5,E-MUM-1
+TXN210,20-07-2024,19:51:00,BPCL,chennai-pump-03,chennai,petrol,41.09,94.32,3875.61,Cash,car,Yes,3,E-CHE-5
+TXN211,09-07-2024,11:45:00,IOCL,mumbai-pump-02,mumbai,power petrol,20.79,99.22,2062.78,UPI,car,No,3,E-MUM-3
+TXN212,26-04-2024,23:03:00,HP,mumbai-pump-04,mumbai,diesel,29.93,87.41,2616.18,UPI,car,No,5,E-MUM-4
+TXN213,07-01-2024,01:55:00,BPCL,chennai-pump-05,chennai,power petrol,49.04,99.41,4875.07,Card,car,No,1,E-CHE-3
+TXN214,19-06-2024,03:53:00,BPCL,chennai-pump-05,chennai,power petrol,44.1,99.57,4391.04,UPI,car,No,5,E-CHE-5
+TXN215,25-02-2025,20:44:00,BPCL,delhi-pump-01,delhi,petrol,13.4,94.52,1266.57,Cash,bike,No,4,E-DEL-4
+TXN216,13-12-2025,09:15:00,IOCL,delhi-pump-04,delhi,petrol,32.88,95.09,3126.56,UPI,car,No,3,E-DEL-3
+TXN217,21-12-2025,07:37:00,IOCL,delhi-pump-04,delhi,petrol,47.92,94.54,4530.36,Card,car,Yes,4,E-DEL-1
+TXN218,04-02-2024,16:23:00,IOCL,chennai-pump-05,chennai,diesel,7.48,87.14,651.81,UPI,bike,Yes,5,E-CHE-4
+TXN219,11-08-2024,21:42:00,HP,pune-pump-06,pune,power petrol,7.73,99.22,766.97,Card,bike,Yes,1,E-PUN-2
+TXN220,16-06-2025,13:54:00,IOCL,delhi-pump-04,delhi,power petrol,10.05,99.55,1000.48,UPI,bike,Yes,3,E-DEL-2
+TXN221,07-01-2024,13:14:00,HP,delhi-pump-04,delhi,petrol,8.46,95.22,805.56,UPI,bike,Yes,1,E-DEL-3
+TXN222,13-04-2024,17:55:00,BPCL,pune-pump-06,pune,diesel,10,87.96,879.6,UPI,bike,Yes,3,E-PUN-1
+TXN223,30-11-2024,03:21:00,IOCL,delhi-pump-04,delhi,petrol,12.03,94.46,1136.35,Card,bike,No,2,E-DEL-2
+TXN224,26-06-2024,08:54:00,BPCL,mumbai-pump-04,mumbai,petrol,44.48,94.59,4207.36,Card,car,No,5,E-MUM-2
+TXN225,01-10-2025,07:11:00,IOCL,bangalore-pump-07,bangalore,diesel,13.41,87.49,1173.24,UPI,bike,No,1,E-BAN-4
+TXN226,25-07-2024,09:04:00,HP,chennai-pump-05,chennai,petrol,29.84,94.26,2812.72,Card,car,No,2,E-CHE-4
+TXN227,31-12-2024,06:46:00,IOCL,delhi-pump-04,delhi,power petrol,14.03,99.27,1392.76,UPI,bike,Yes,4,E-DEL-1
+TXN228,12-07-2025,05:12:00,IOCL,delhi-pump-04,delhi,petrol,27.96,94.47,2641.38,Cash,car,Yes,2,E-DEL-3
+TXN229,14-04-2024,04:51:00,IOCL,mumbai-pump-02,mumbai,diesel,10.79,87.82,947.58,UPI,bike,Yes,3,E-MUM-4
+TXN230,11-03-2025,22:38:00,HP,delhi-pump-01,delhi,petrol,5.96,94.63,563.99,UPI,bike,No,2,E-DEL-1
+TXN231,29-11-2024,15:42:00,HP,pune-pump-06,pune,power petrol,22.21,99.75,2215.45,UPI,car,Yes,3,E-PUN-5
+TXN232,12-10-2025,18:04:00,IOCL,bangalore-pump-07,bangalore,diesel,11.41,87.47,998.03,UPI,bike,No,1,E-BAN-4
+TXN233,23-12-2024,06:59:00,HP,chennai-pump-03,chennai,power petrol,11.84,99.04,1172.63,Card,bike,Yes,1,E-CHE-2
+TXN234,27-06-2024,15:55:00,IOCL,chennai-pump-03,chennai,diesel,10.14,87.65,888.77,Card,bike,No,4,E-CHE-4
+TXN235,28-07-2025,08:47:00,IOCL,delhi-pump-04,delhi,petrol,38.02,94.87,3606.96,UPI,car,No,3,E-DEL-4
+TXN236,16-11-2025,01:07:00,BPCL,chennai-pump-03,chennai,diesel,40.27,87.63,3528.86,Cash,car,No,4,E-CHE-2
+TXN237,07-11-2025,22:56:00,BPCL,mumbai-pump-02,mumbai,diesel,14.23,87.23,1241.28,Card,bike,No,1,E-MUM-5
+TXN238,18-03-2025,06:26:00,IOCL,bangalore-pump-07,bangalore,petrol,27.35,94.84,2593.87,Cash,car,No,2,E-BAN-2
+TXN239,08-07-2024,18:50:00,BPCL,delhi-pump-01,delhi,power petrol,35.47,99.12,3515.79,UPI,car,Yes,3,E-DEL-3
+TXN240,25-10-2025,18:51:00,IOCL,delhi-pump-04,delhi,diesel,7.23,87.99,636.17,Cash,bike,Yes,5,E-DEL-2
+TXN241,25-05-2024,19:02:00,BPCL,chennai-pump-05,chennai,diesel,13.96,87.28,1218.43,UPI,bike,Yes,2,E-CHE-5
+TXN242,19-04-2024,13:28:00,IOCL,mumbai-pump-04,mumbai,power petrol,14.81,99.65,1475.82,Cash,bike,Yes,4,E-MUM-4
+TXN243,03-05-2025,10:09:00,HP,pune-pump-06,pune,petrol,22.3,94.36,2104.23,UPI,car,Yes,3,E-PUN-1
+TXN244,09-01-2025,19:22:00,IOCL,pune-pump-06,pune,petrol,12.98,95.19,1235.57,UPI,bike,No,2,E-PUN-3
+TXN245,02-08-2025,03:44:00,HP,chennai-pump-03,chennai,petrol,14.95,94.83,1417.71,UPI,bike,No,2,E-CHE-1
+TXN246,29-05-2025,07:40:00,HP,pune-pump-01,pune,power petrol,39.7,99.75,3960.08,Cash,car,Yes,5,E-PUN-1
+TXN247,14-04-2024,02:15:00,BPCL,bangalore-pump-07,bangalore,petrol,48.06,95.14,4572.43,Card,car,Yes,2,E-BAN-5
+TXN248,29-04-2025,13:10:00,HP,pune-pump-01,pune,diesel,14.48,87.73,1270.33,Cash,bike,Yes,1,E-PUN-5
+TXN249,15-05-2025,12:09:00,HP,chennai-pump-03,chennai,power petrol,39.44,98.96,3902.98,Card,car,Yes,5,E-CHE-2
+TXN250,30-04-2024,10:16:00,BPCL,delhi-pump-01,delhi,power petrol,31.93,99.06,3162.99,Card,car,Yes,4,E-DEL-3
+TXN251,24-06-2024,10:12:00,IOCL,bangalore-pump-07,bangalore,petrol,14.6,95.11,1388.61,UPI,bike,No,4,E-BAN-5
+TXN252,03-12-2024,01:06:00,HP,mumbai-pump-04,mumbai,diesel,12.22,87.37,1067.66,Cash,bike,No,1,E-MUM-1
+TXN253,21-06-2025,00:35:00,IOCL,pune-pump-06,pune,diesel,32.23,87.74,2827.86,Card,car,No,4,E-PUN-4
+TXN254,13-12-2025,11:53:00,IOCL,pune-pump-01,pune,power petrol,43.79,99.44,4354.48,UPI,car,No,4,E-PUN-5
+TXN255,28-04-2025,05:57:00,IOCL,delhi-pump-04,delhi,power petrol,28.76,99.77,2869.39,Cash,car,No,1,E-DEL-1
+TXN256,16-09-2025,11:23:00,HP,mumbai-pump-02,mumbai,petrol,39.36,94.59,3723.06,Cash,car,No,1,E-MUM-4
+TXN257,21-02-2024,01:14:00,HP,delhi-pump-04,delhi,power petrol,13.76,99.77,1372.84,Cash,bike,No,5,E-DEL-4
+TXN258,19-10-2024,13:04:00,BPCL,pune-pump-01,pune,petrol,40.18,94.39,3792.59,Card,car,No,2,E-PUN-5
+TXN259,30-01-2024,02:20:00,BPCL,bangalore-pump-07,bangalore,petrol,17.85,94.38,1684.68,Cash,car,Yes,3,E-BAN-5
+TXN260,24-02-2024,15:09:00,IOCL,bangalore-pump-07,bangalore,power petrol,14.75,99.73,1471.02,Card,bike,Yes,4,E-BAN-3
+TXN261,24-01-2025,14:02:00,BPCL,pune-pump-01,pune,power petrol,18.01,99.77,1796.86,Cash,car,No,3,E-PUN-2
+TXN262,21-12-2024,11:13:00,IOCL,delhi-pump-04,delhi,power petrol,8.12,99.72,809.73,Cash,bike,Yes,5,E-DEL-4
+TXN263,25-07-2024,05:30:00,HP,chennai-pump-03,chennai,petrol,35.67,95.1,3392.22,Card,car,Yes,3,E-CHE-5
+TXN264,25-01-2025,04:41:00,IOCL,bangalore-pump-07,bangalore,diesel,32.71,87.37,2857.87,UPI,car,Yes,3,E-BAN-5
+TXN265,20-06-2025,14:31:00,IOCL,mumbai-pump-02,mumbai,petrol,48.19,94.69,4563.11,UPI,car,No,2,E-MUM-2
+TXN266,24-01-2024,13:59:00,HP,bangalore-pump-07,bangalore,petrol,22.27,94.99,2115.43,Card,car,No,2,E-BAN-3
+TXN267,25-12-2024,19:16:00,IOCL,chennai-pump-03,chennai,diesel,7.64,87.5,668.5,UPI,bike,Yes,1,E-CHE-5
+TXN268,11-03-2025,15:12:00,IOCL,delhi-pump-01,delhi,diesel,11.56,87.6,1012.66,Card,bike,Yes,1,E-DEL-3
+TXN269,27-07-2024,19:00:00,IOCL,delhi-pump-04,delhi,diesel,49.44,87.96,4348.74,Card,car,Yes,4,E-DEL-2
+TXN270,11-06-2025,08:35:00,BPCL,delhi-pump-01,delhi,diesel,18.7,87.65,1639.06,UPI,car,Yes,2,E-DEL-4
+TXN271,04-11-2025,14:39:00,IOCL,chennai-pump-03,chennai,diesel,9.17,87.37,801.18,Cash,bike,No,5,E-CHE-4
+TXN272,04-09-2024,04:04:00,IOCL,mumbai-pump-04,mumbai,power petrol,38.88,99.85,3882.17,Cash,car,No,5,E-MUM-4
+TXN273,29-02-2024,03:57:00,HP,bangalore-pump-07,bangalore,petrol,34.54,95.2,3288.21,Card,car,No,1,E-BAN-2
+TXN274,12-07-2024,05:50:00,IOCL,delhi-pump-01,delhi,petrol,17.19,94.86,1630.64,UPI,car,No,1,E-DEL-2
+TXN275,15-01-2025,17:56:00,HP,delhi-pump-01,delhi,petrol,41.98,94.53,3968.37,UPI,car,No,4,E-DEL-3
+TXN276,09-05-2025,22:47:00,BPCL,mumbai-pump-02,mumbai,power petrol,34.63,99.36,3440.84,UPI,car,No,3,E-MUM-4
+TXN277,22-06-2024,07:27:00,HP,mumbai-pump-04,mumbai,diesel,14.17,87.69,1242.57,Card,bike,Yes,4,E-MUM-3
+TXN278,21-06-2024,11:37:00,IOCL,delhi-pump-01,delhi,petrol,22.02,94.26,2075.61,Card,car,No,2,E-DEL-5
+TXN279,09-04-2024,11:36:00,BPCL,delhi-pump-01,delhi,diesel,14.16,88.1,1247.5,UPI,bike,Yes,4,E-DEL-1
+TXN280,11-06-2025,10:08:00,HP,bangalore-pump-07,bangalore,power petrol,42.68,99.6,4250.93,Card,car,No,1,E-BAN-4
+TXN281,22-06-2025,01:43:00,IOCL,chennai-pump-03,chennai,petrol,41.6,94.36,3925.38,Cash,car,Yes,1,E-CHE-1
+TXN282,21-02-2025,23:43:00,IOCL,mumbai-pump-04,mumbai,diesel,25.07,87.52,2194.13,Cash,car,Yes,3,E-MUM-1
+TXN283,16-05-2025,21:04:00,IOCL,delhi-pump-04,delhi,petrol,9.26,94.88,878.59,UPI,bike,No,3,E-DEL-4
+TXN284,09-01-2024,14:41:00,BPCL,chennai-pump-03,chennai,diesel,19.04,87.35,1663.14,UPI,car,No,5,E-CHE-1
+TXN285,03-04-2025,18:19:00,IOCL,chennai-pump-05,chennai,petrol,43.05,94.29,4059.18,Card,car,Yes,3,E-CHE-5
+TXN286,07-09-2024,04:19:00,BPCL,bangalore-pump-07,bangalore,petrol,30.39,94.43,2869.73,Cash,car,No,1,E-BAN-3
+TXN287,27-11-2024,00:08:00,IOCL,delhi-pump-04,delhi,diesel,24.05,87.2,2097.16,UPI,car,Yes,4,E-DEL-3
+TXN288,16-10-2025,23:02:00,BPCL,chennai-pump-03,chennai,power petrol,48.21,99.01,4773.27,UPI,car,No,2,E-CHE-1
+TXN289,08-01-2024,13:09:00,BPCL,pune-pump-01,pune,petrol,6.57,95.06,624.54,Card,bike,No,2,E-PUN-2
+TXN290,17-03-2024,01:55:00,IOCL,bangalore-pump-07,bangalore,power petrol,8.32,99.66,829.17,Card,bike,Yes,1,E-BAN-3
+TXN291,21-05-2025,18:01:00,HP,delhi-pump-04,delhi,petrol,23.56,95.17,2242.21,UPI,car,No,3,E-DEL-2
+TXN292,26-02-2025,21:31:00,BPCL,pune-pump-01,pune,diesel,11.04,87.35,964.34,Card,bike,Yes,3,E-PUN-2
+TXN293,05-11-2024,19:30:00,IOCL,pune-pump-01,pune,petrol,12.37,94.89,1173.79,UPI,bike,No,2,E-PUN-1
+TXN294,17-06-2024,17:11:00,IOCL,chennai-pump-03,chennai,petrol,9.61,94.83,911.32,Cash,bike,Yes,1,E-CHE-3
+TXN295,09-08-2025,23:07:00,IOCL,bangalore-pump-07,bangalore,diesel,40.46,87.53,3541.46,UPI,car,Yes,2,E-BAN-3
+TXN296,29-10-2025,23:50:00,BPCL,bangalore-pump-07,bangalore,petrol,14.77,94.9,1401.67,UPI,bike,No,3,E-BAN-3
+TXN297,09-05-2024,15:09:00,IOCL,bangalore-pump-07,bangalore,diesel,48.81,87.24,4258.18,Card,car,No,2,E-BAN-3
+TXN298,26-10-2024,12:00:00,BPCL,delhi-pump-01,delhi,diesel,49.39,87.15,4304.34,Card,car,No,4,E-DEL-1
+TXN299,09-02-2025,06:07:00,BPCL,chennai-pump-03,chennai,petrol,24.57,94.52,2322.36,Cash,car,Yes,1,E-CHE-5
+TXN300,18-05-2024,00:40:00,IOCL,chennai-pump-03,chennai,power petrol,12.02,99.79,1199.48,Cash,bike,Yes,4,E-CHE-5
+TXN301,18-04-2024,18:43:00,BPCL,mumbai-pump-02,mumbai,petrol,14.44,95.14,1373.82,Cash,bike,No,4,E-MUM-2
+TXN302,06-03-2024,09:14:00,BPCL,delhi-pump-01,delhi,power petrol,9.43,99.43,937.62,UPI,bike,No,5,E-DEL-2
+TXN303,05-09-2024,05:08:00,BPCL,bangalore-pump-07,bangalore,diesel,49.56,87.77,4349.88,UPI,car,Yes,5,E-BAN-2
+TXN304,25-04-2025,14:46:00,HP,delhi-pump-04,delhi,power petrol,32.15,99.19,3188.96,Cash,car,No,2,E-DEL-5
+TXN305,17-03-2024,22:17:00,IOCL,chennai-pump-03,chennai,petrol,22.26,94.3,2099.12,UPI,car,No,1,E-CHE-3
+TXN306,16-04-2025,18:25:00,IOCL,bangalore-pump-07,bangalore,diesel,6.53,87.25,569.74,Cash,bike,Yes,2,E-BAN-2
+TXN307,30-06-2025,13:04:00,BPCL,mumbai-pump-02,mumbai,power petrol,16.56,99.95,1655.17,Card,car,Yes,2,E-MUM-2
+TXN308,04-10-2025,11:17:00,IOCL,chennai-pump-03,chennai,petrol,16.08,94.9,1525.99,Card,car,Yes,4,E-CHE-4
+TXN309,22-06-2024,07:29:00,HP,mumbai-pump-04,mumbai,diesel,6.86,87.29,598.81,Cash,bike,No,4,E-MUM-3
+TXN310,08-04-2024,03:26:00,IOCL,delhi-pump-04,delhi,diesel,42.14,87.33,3680.09,UPI,car,No,3,E-DEL-1
+TXN311,07-01-2025,15:54:00,BPCL,pune-pump-01,pune,power petrol,14.33,99.87,1431.14,Card,bike,No,5,E-PUN-4
+TXN312,15-01-2025,18:58:00,IOCL,chennai-pump-05,chennai,power petrol,8.58,99.03,849.68,Card,bike,No,3,E-CHE-1
+TXN313,05-02-2025,08:28:00,IOCL,chennai-pump-03,chennai,petrol,13.37,94.76,1266.94,UPI,bike,No,3,E-CHE-2
+TXN314,28-11-2025,09:28:00,BPCL,pune-pump-06,pune,petrol,14.34,94.95,1361.58,Cash,bike,Yes,5,E-PUN-4
+TXN315,23-04-2024,12:07:00,HP,chennai-pump-03,chennai,diesel,6.22,87.93,546.92,Cash,bike,Yes,5,E-CHE-3
+TXN316,09-08-2025,20:14:00,HP,chennai-pump-03,chennai,power petrol,37.57,99.93,3754.37,Card,car,No,1,E-CHE-5
+TXN317,04-01-2025,10:53:00,IOCL,mumbai-pump-04,mumbai,power petrol,10.36,99.17,1027.4,UPI,bike,No,1,E-MUM-1
+TXN318,28-11-2025,20:19:00,HP,chennai-pump-05,chennai,diesel,33.96,88.03,2989.5,Cash,car,Yes,5,E-CHE-4
+TXN319,26-11-2025,14:58:00,HP,mumbai-pump-04,mumbai,diesel,35.64,87.98,3135.61,Card,car,Yes,4,E-MUM-5
+TXN320,12-12-2025,00:46:00,BPCL,mumbai-pump-02,mumbai,diesel,6.56,87.79,575.9,UPI,bike,No,3,E-MUM-2
+TXN321,01-07-2024,18:04:00,IOCL,pune-pump-06,pune,power petrol,5.17,99.01,511.88,UPI,bike,No,4,E-PUN-4
+TXN322,18-03-2025,17:16:00,HP,mumbai-pump-04,mumbai,power petrol,7.3,99.16,723.87,Cash,bike,Yes,1,E-MUM-3
+TXN323,25-12-2025,17:48:00,HP,delhi-pump-04,delhi,diesel,7.27,87.34,634.96,Cash,bike,Yes,3,E-DEL-3
+TXN324,23-07-2025,08:28:00,BPCL,bangalore-pump-07,bangalore,petrol,33.89,95.12,3223.62,UPI,car,Yes,2,E-BAN-1
+TXN325,08-05-2024,17:57:00,IOCL,delhi-pump-01,delhi,diesel,16.53,88.04,1455.3,Cash,car,No,3,E-DEL-5
+TXN326,03-04-2025,10:43:00,BPCL,bangalore-pump-07,bangalore,diesel,5.74,87.15,500.24,Card,bike,No,5,E-BAN-5
+TXN327,26-03-2024,13:27:00,IOCL,bangalore-pump-07,bangalore,diesel,7.81,88.1,688.06,Cash,bike,No,4,E-BAN-4
+TXN328,07-05-2024,08:57:00,IOCL,bangalore-pump-07,bangalore,petrol,47.21,94.47,4459.93,UPI,car,No,3,E-BAN-3
+TXN329,03-06-2024,23:29:00,BPCL,pune-pump-01,pune,diesel,40.82,88.05,3594.2,Cash,car,No,3,E-PUN-5
+TXN330,31-10-2025,04:22:00,BPCL,mumbai-pump-02,mumbai,petrol,39.97,95.11,3801.55,Card,car,Yes,4,E-MUM-5
+TXN331,07-06-2024,22:46:00,IOCL,delhi-pump-04,delhi,power petrol,14.88,99.64,1482.64,Cash,bike,Yes,5,E-DEL-1
+TXN332,07-05-2025,09:04:00,HP,chennai-pump-05,chennai,diesel,49.03,87.24,4277.38,UPI,car,Yes,2,E-CHE-2
+TXN333,30-07-2024,15:18:00,BPCL,chennai-pump-03,chennai,petrol,6.21,94.84,588.96,UPI,bike,No,1,E-CHE-3
+TXN334,18-11-2024,13:06:00,HP,pune-pump-01,pune,power petrol,6.24,98.99,617.7,Card,bike,No,4,E-PUN-3
+TXN335,27-05-2024,00:17:00,BPCL,mumbai-pump-04,mumbai,power petrol,43.32,99.26,4299.94,Cash,car,Yes,2,E-MUM-1
+TXN336,27-10-2024,20:43:00,IOCL,pune-pump-01,pune,power petrol,12.11,99.69,1207.25,UPI,bike,Yes,3,E-PUN-3
+TXN337,22-06-2024,10:32:00,BPCL,chennai-pump-03,chennai,diesel,11.24,87.45,982.94,UPI,bike,No,3,E-CHE-5
+TXN338,29-09-2025,19:17:00,BPCL,delhi-pump-04,delhi,diesel,26.35,88.1,2321.43,UPI,car,No,1,E-DEL-5
+TXN339,02-09-2025,16:20:00,HP,delhi-pump-01,delhi,petrol,28.32,94.8,2684.74,Cash,car,Yes,1,E-DEL-1
+TXN340,18-09-2025,21:19:00,HP,mumbai-pump-02,mumbai,diesel,38.28,87.16,3336.48,UPI,car,Yes,4,E-MUM-2
+TXN341,11-04-2024,02:11:00,HP,chennai-pump-03,chennai,diesel,10.51,87.87,923.51,Card,bike,No,3,E-CHE-1
+TXN342,11-11-2025,19:52:00,BPCL,bangalore-pump-07,bangalore,power petrol,25,99.21,2480.25,Card,car,Yes,1,E-BAN-1
+TXN343,17-11-2024,08:35:00,IOCL,bangalore-pump-07,bangalore,petrol,24.21,95.14,2303.34,UPI,car,No,1,E-BAN-5
+TXN344,02-11-2025,21:43:00,BPCL,mumbai-pump-04,mumbai,diesel,13.61,87.9,1196.32,Cash,bike,No,4,E-MUM-2
+TXN345,01-08-2024,04:50:00,IOCL,pune-pump-01,pune,diesel,6.87,87.46,600.85,Card,bike,Yes,1,E-PUN-5
+TXN346,17-10-2025,22:42:00,HP,delhi-pump-04,delhi,petrol,6.88,94.38,649.33,Card,bike,Yes,5,E-DEL-3
+TXN347,31-07-2025,17:47:00,HP,pune-pump-06,pune,petrol,6.97,95.05,662.5,Card,bike,Yes,3,E-PUN-3
+TXN348,02-10-2025,17:21:00,IOCL,chennai-pump-03,chennai,power petrol,8.93,99.06,884.61,Cash,bike,No,1,E-CHE-4
+TXN349,24-01-2024,21:57:00,HP,pune-pump-01,pune,power petrol,12.53,99.27,1243.85,Cash,bike,No,3,E-PUN-2
+TXN350,25-06-2025,07:04:00,HP,bangalore-pump-07,bangalore,petrol,12.37,95.02,1175.4,Card,bike,No,1,E-BAN-2
+TXN351,01-05-2025,12:19:00,IOCL,mumbai-pump-02,mumbai,power petrol,39.4,99.76,3930.54,UPI,car,No,5,E-MUM-1
+TXN352,23-08-2025,01:13:00,IOCL,bangalore-pump-07,bangalore,diesel,30,87.86,2635.8,Cash,car,No,4,E-BAN-2
+TXN353,31-07-2025,20:37:00,HP,bangalore-pump-07,bangalore,power petrol,11.95,98.97,1182.69,UPI,bike,No,4,E-BAN-3
+TXN354,23-03-2024,07:47:00,HP,chennai-pump-05,chennai,petrol,14.58,95,1385.1,Card,bike,No,1,E-CHE-5
+TXN355,11-12-2024,11:30:00,BPCL,pune-pump-01,pune,diesel,45.09,87.27,3935,UPI,car,Yes,3,E-PUN-5
+TXN356,19-05-2025,14:49:00,BPCL,chennai-pump-05,chennai,petrol,43.27,94.32,4081.23,UPI,car,Yes,4,E-CHE-5
+TXN357,24-09-2024,00:37:00,HP,delhi-pump-01,delhi,petrol,26.57,94.5,2510.87,Cash,car,Yes,5,E-DEL-2
+TXN358,13-07-2025,00:12:00,HP,delhi-pump-04,delhi,petrol,7.45,94.47,703.8,Cash,bike,Yes,2,E-DEL-1
+TXN359,29-05-2025,19:14:00,HP,chennai-pump-05,chennai,power petrol,43.77,99.38,4349.86,UPI,car,Yes,5,E-CHE-3
+TXN360,22-07-2025,22:48:00,BPCL,bangalore-pump-07,bangalore,diesel,6.79,87.3,592.77,Card,bike,Yes,2,E-BAN-5
+TXN361,13-06-2025,02:57:00,BPCL,mumbai-pump-02,mumbai,petrol,5.73,94.46,541.26,UPI,bike,No,2,E-MUM-1
+TXN362,04-01-2024,00:15:00,IOCL,mumbai-pump-02,mumbai,petrol,38.97,94.58,3685.78,UPI,car,No,3,E-MUM-2
+TXN363,28-07-2025,08:37:00,BPCL,mumbai-pump-02,mumbai,diesel,7.32,87.48,640.35,UPI,bike,Yes,3,E-MUM-1
+TXN364,23-06-2024,13:57:00,HP,chennai-pump-05,chennai,diesel,7.51,87.36,656.07,UPI,bike,No,4,E-CHE-1
+TXN365,22-03-2024,14:22:00,HP,mumbai-pump-02,mumbai,petrol,12.49,95.17,1188.67,Cash,bike,No,5,E-MUM-3
+TXN366,11-02-2025,23:31:00,HP,delhi-pump-01,delhi,power petrol,16.01,99.9,1599.4,Cash,car,Yes,4,E-DEL-2
+TXN367,03-03-2024,03:39:00,BPCL,mumbai-pump-02,mumbai,petrol,10.62,94.57,1004.33,Card,bike,Yes,3,E-MUM-1
+TXN368,23-09-2024,09:21:00,HP,mumbai-pump-04,mumbai,diesel,18.38,88.04,1618.18,Cash,car,No,3,E-MUM-1
+TXN369,12-02-2025,03:14:00,BPCL,delhi-pump-01,delhi,petrol,12.41,94.46,1172.25,Card,bike,Yes,1,E-DEL-1
+TXN370,09-02-2024,22:18:00,BPCL,pune-pump-06,pune,diesel,9.26,87.95,814.42,Card,bike,Yes,5,E-PUN-2
+TXN371,10-10-2025,10:07:00,IOCL,chennai-pump-03,chennai,power petrol,30.43,99.49,3027.48,UPI,car,No,1,E-CHE-2
+TXN372,05-03-2025,07:11:00,IOCL,chennai-pump-05,chennai,petrol,6.19,95.16,589.04,UPI,bike,No,1,E-CHE-3
+TXN373,28-05-2024,04:41:00,HP,chennai-pump-03,chennai,diesel,25.29,87.34,2208.83,Cash,car,Yes,5,E-CHE-1
+TXN374,11-10-2024,09:23:00,HP,mumbai-pump-04,mumbai,diesel,43.22,87.2,3768.78,UPI,car,No,3,E-MUM-4
+TXN375,31-12-2024,17:12:00,BPCL,delhi-pump-04,delhi,petrol,32.13,94.75,3044.32,Card,car,No,3,E-DEL-2
+TXN376,12-06-2025,04:56:00,IOCL,mumbai-pump-02,mumbai,power petrol,20.06,99.3,1991.96,Card,car,No,2,E-MUM-2
+TXN377,30-08-2024,17:44:00,IOCL,pune-pump-01,pune,power petrol,5.93,99.4,589.44,UPI,bike,No,3,E-PUN-3
+TXN378,11-08-2025,20:55:00,IOCL,pune-pump-01,pune,diesel,36.32,87.36,3172.92,Cash,car,Yes,1,E-PUN-5
+TXN379,16-08-2024,11:28:00,IOCL,delhi-pump-01,delhi,petrol,10.74,94.45,1014.39,Card,bike,Yes,5,E-DEL-1
+TXN380,19-03-2025,16:00:00,IOCL,bangalore-pump-07,bangalore,power petrol,14.78,99.72,1473.86,Cash,bike,Yes,4,E-BAN-2
+TXN381,22-08-2025,13:05:00,IOCL,delhi-pump-04,delhi,diesel,6.84,87.31,597.2,Card,bike,Yes,1,E-DEL-3
+TXN382,21-02-2024,05:21:00,HP,chennai-pump-03,chennai,diesel,9.3,87.85,817,Cash,bike,No,5,E-CHE-2
+TXN383,07-06-2024,05:49:00,BPCL,pune-pump-06,pune,power petrol,49.73,99.43,4944.65,Cash,car,No,2,E-PUN-4
+TXN384,08-10-2025,13:24:00,HP,delhi-pump-01,delhi,diesel,13.02,87.93,1144.85,Card,bike,Yes,5,E-DEL-3
+TXN385,31-01-2024,03:24:00,IOCL,bangalore-pump-07,bangalore,power petrol,13.41,99.28,1331.34,Card,bike,No,2,E-BAN-4
+TXN386,10-08-2025,02:06:00,BPCL,pune-pump-06,pune,petrol,13.85,95.05,1316.44,UPI,bike,Yes,2,E-PUN-5
+TXN387,31-07-2025,09:41:00,IOCL,delhi-pump-04,delhi,diesel,33.76,88.05,2972.57,UPI,car,Yes,3,E-DEL-2
+TXN388,09-09-2024,22:12:00,HP,chennai-pump-03,chennai,petrol,40.6,94.4,3832.64,UPI,car,Yes,3,E-CHE-2
+TXN389,08-10-2025,06:24:00,IOCL,mumbai-pump-04,mumbai,power petrol,39.81,99.62,3965.87,Card,car,No,4,E-MUM-1
+TXN390,07-08-2025,12:03:00,IOCL,chennai-pump-05,chennai,petrol,40.42,95.13,3845.15,Cash,car,No,5,E-CHE-3
+TXN391,22-03-2025,16:38:00,IOCL,chennai-pump-05,chennai,power petrol,41.35,99.33,4107.3,Cash,car,Yes,3,E-CHE-5
+TXN392,12-01-2024,20:12:00,BPCL,delhi-pump-01,delhi,petrol,43.01,94.23,4052.83,Card,car,No,1,E-DEL-1
+TXN393,24-06-2024,06:16:00,BPCL,mumbai-pump-04,mumbai,petrol,6.98,95.07,663.59,UPI,bike,Yes,4,E-MUM-4
+TXN394,31-10-2024,00:34:00,HP,delhi-pump-01,delhi,petrol,17.22,94.32,1624.19,UPI,car,Yes,3,E-DEL-1
+TXN395,23-10-2024,03:51:00,BPCL,mumbai-pump-04,mumbai,diesel,6.81,87.41,595.26,Cash,bike,Yes,3,E-MUM-5
+TXN396,06-04-2025,07:41:00,BPCL,chennai-pump-05,chennai,petrol,6.77,94.58,640.31,Card,bike,No,2,E-CHE-3
+TXN397,17-01-2024,19:50:00,BPCL,pune-pump-01,pune,power petrol,13.22,99.34,1313.27,Cash,bike,No,1,E-PUN-1
+TXN398,17-06-2024,23:58:00,HP,pune-pump-01,pune,power petrol,41.27,98.97,4084.49,Cash,car,No,4,E-PUN-5
+TXN399,18-02-2024,02:42:00,BPCL,mumbai-pump-04,mumbai,petrol,6.35,94.24,598.42,Card,bike,No,1,E-MUM-5
+TXN400,02-02-2025,18:22:00,IOCL,bangalore-pump-07,bangalore,power petrol,8.47,99.13,839.63,UPI,bike,No,3,E-BAN-4
+TXN401,06-08-2025,03:42:00,IOCL,mumbai-pump-02,mumbai,petrol,13.03,94.68,1233.68,Card,bike,Yes,3,E-MUM-1
+TXN402,10-04-2025,13:41:00,HP,pune-pump-01,pune,power petrol,43.39,99.15,4302.12,Card,car,No,4,E-PUN-2
+TXN403,06-02-2024,22:36:00,IOCL,mumbai-pump-02,mumbai,petrol,15.09,95.12,1435.36,Card,car,Yes,4,E-MUM-3
+TXN404,23-06-2025,18:46:00,HP,pune-pump-01,pune,diesel,8.13,87.69,712.92,Card,bike,No,5,E-PUN-1
+TXN405,11-08-2024,01:21:00,HP,delhi-pump-01,delhi,petrol,44.84,95.05,4262.04,Card,car,No,5,E-DEL-5
+TXN406,18-02-2024,02:30:00,HP,delhi-pump-04,delhi,power petrol,5.32,99.26,528.06,UPI,bike,Yes,3,E-DEL-1
+TXN407,24-09-2025,21:55:00,IOCL,mumbai-pump-04,mumbai,diesel,34.33,87.26,2995.64,Card,car,Yes,1,E-MUM-3
+TXN408,19-07-2025,19:43:00,BPCL,pune-pump-06,pune,power petrol,13.56,99.06,1343.25,UPI,bike,Yes,4,E-PUN-5
+TXN409,30-10-2025,06:54:00,HP,mumbai-pump-02,mumbai,power petrol,8.67,99.72,864.57,Cash,bike,No,1,E-MUM-4
+TXN410,14-04-2024,11:24:00,HP,pune-pump-06,pune,power petrol,37.61,99.16,3729.41,UPI,car,No,1,E-PUN-5
+TXN411,05-06-2024,11:36:00,BPCL,pune-pump-06,pune,petrol,18.44,95.13,1754.2,UPI,car,Yes,2,E-PUN-1
+TXN412,07-03-2025,14:49:00,BPCL,chennai-pump-05,chennai,power petrol,42.58,99.53,4237.99,UPI,car,Yes,1,E-CHE-2
+TXN413,11-01-2024,17:01:00,IOCL,pune-pump-01,pune,power petrol,8.24,99.49,819.8,Card,bike,No,2,E-PUN-5
+TXN414,03-07-2025,22:59:00,HP,chennai-pump-05,chennai,petrol,16.79,94.51,1586.82,Card,car,Yes,3,E-CHE-4
+TXN415,26-08-2024,14:22:00,IOCL,chennai-pump-03,chennai,diesel,9.09,87.57,796.01,Cash,bike,Yes,4,E-CHE-5
+TXN416,20-04-2025,05:10:00,BPCL,mumbai-pump-02,mumbai,petrol,46.31,94.67,4384.17,UPI,car,Yes,1,E-MUM-3
+TXN417,14-05-2025,14:02:00,IOCL,mumbai-pump-04,mumbai,diesel,10.82,87.45,946.21,Card,bike,No,1,E-MUM-3
+TXN418,05-12-2024,23:44:00,HP,chennai-pump-03,chennai,diesel,36.04,87.59,3156.74,UPI,car,No,4,E-CHE-1
+TXN419,16-07-2025,02:06:00,BPCL,mumbai-pump-02,mumbai,diesel,27.27,87.75,2392.94,Cash,car,Yes,3,E-MUM-5
+TXN420,09-03-2024,04:19:00,IOCL,chennai-pump-03,chennai,power petrol,31.48,99.25,3124.39,Cash,car,Yes,5,E-CHE-3
+TXN421,30-06-2024,21:56:00,HP,pune-pump-06,pune,power petrol,9.64,99.81,962.17,UPI,bike,Yes,4,E-PUN-3
+TXN422,30-05-2024,19:10:00,BPCL,bangalore-pump-07,bangalore,petrol,36.2,94.89,3435.02,UPI,car,No,5,E-BAN-2
+TXN423,11-08-2025,06:34:00,HP,bangalore-pump-07,bangalore,petrol,12.86,95.08,1222.73,UPI,bike,Yes,4,E-BAN-2
+TXN424,07-12-2024,21:51:00,HP,delhi-pump-04,delhi,power petrol,12.15,99.74,1211.84,UPI,bike,Yes,5,E-DEL-3
+TXN425,08-01-2024,14:34:00,BPCL,delhi-pump-04,delhi,diesel,37.36,88.08,3290.67,Cash,car,Yes,5,E-DEL-2
+TXN426,10-12-2025,22:19:00,HP,pune-pump-01,pune,power petrol,28.96,99.26,2874.57,UPI,car,Yes,2,E-PUN-3
+TXN427,04-11-2024,00:25:00,BPCL,delhi-pump-04,delhi,petrol,37.6,94.69,3560.34,Card,car,Yes,2,E-DEL-2
+TXN428,25-08-2025,19:09:00,HP,chennai-pump-05,chennai,diesel,7.87,87.91,691.85,Card,bike,No,5,E-CHE-2
+TXN429,20-11-2025,08:50:00,BPCL,mumbai-pump-04,mumbai,diesel,44.66,87.39,3902.84,Cash,car,No,3,E-MUM-5
+TXN430,15-05-2025,17:09:00,BPCL,pune-pump-01,pune,diesel,25.84,88.01,2274.18,UPI,car,Yes,3,E-PUN-5
+TXN431,31-01-2025,12:51:00,BPCL,chennai-pump-05,chennai,diesel,34.74,87.73,3047.74,Cash,car,Yes,3,E-CHE-1
+TXN432,09-08-2025,08:59:00,HP,pune-pump-01,pune,diesel,36.52,87.57,3198.06,Cash,car,No,5,E-PUN-2
+TXN433,18-01-2024,00:37:00,BPCL,chennai-pump-03,chennai,power petrol,13.49,99.27,1339.15,Card,bike,Yes,4,E-CHE-1
+TXN434,27-10-2024,07:13:00,HP,mumbai-pump-02,mumbai,diesel,20.4,87.26,1780.1,Card,car,Yes,1,E-MUM-3
+TXN435,23-09-2024,17:56:00,BPCL,chennai-pump-03,chennai,diesel,17.57,87.37,1535.09,Card,car,No,1,E-CHE-2
+TXN436,06-08-2024,18:33:00,IOCL,delhi-pump-01,delhi,power petrol,41.42,99.69,4129.16,Card,car,No,4,E-DEL-2
+TXN437,12-10-2025,07:50:00,HP,chennai-pump-05,chennai,power petrol,25.55,99.8,2549.89,UPI,car,Yes,1,E-CHE-2
+TXN438,25-09-2025,16:54:00,IOCL,pune-pump-01,pune,power petrol,43.25,99.66,4310.3,UPI,car,No,5,E-PUN-4
+TXN439,29-03-2025,05:56:00,HP,mumbai-pump-04,mumbai,diesel,27.41,88.07,2414,Card,car,No,5,E-MUM-3
+TXN440,10-07-2024,11:34:00,HP,pune-pump-06,pune,diesel,41.47,87.77,3639.82,UPI,car,Yes,2,E-PUN-1
+TXN441,15-10-2024,08:50:00,HP,bangalore-pump-07,bangalore,power petrol,20.56,99.58,2047.36,UPI,car,No,5,E-BAN-2
+TXN442,26-08-2025,07:39:00,IOCL,pune-pump-06,pune,petrol,30.73,94.68,2909.52,Cash,car,No,3,E-PUN-3
+TXN443,28-11-2025,15:45:00,BPCL,mumbai-pump-04,mumbai,diesel,5.55,87.55,485.9,Cash,bike,Yes,2,E-MUM-4
+TXN444,15-07-2025,16:16:00,IOCL,chennai-pump-05,chennai,power petrol,11.77,99.6,1172.29,Cash,bike,Yes,1,E-CHE-5
+TXN445,06-11-2025,04:50:00,BPCL,chennai-pump-03,chennai,petrol,10.93,95.18,1040.32,Cash,bike,Yes,1,E-CHE-1
+TXN446,30-04-2024,01:53:00,BPCL,pune-pump-01,pune,diesel,19.06,87.4,1665.84,UPI,car,No,1,E-PUN-2
+TXN447,03-12-2024,19:43:00,BPCL,pune-pump-06,pune,petrol,44.6,94.72,4224.51,Card,car,Yes,1,E-PUN-2
+TXN448,22-12-2024,19:40:00,BPCL,chennai-pump-03,chennai,diesel,10.73,87.38,937.59,UPI,bike,Yes,2,E-CHE-5
+TXN449,06-09-2025,23:04:00,BPCL,pune-pump-01,pune,diesel,14.13,87.48,1236.09,Cash,bike,No,5,E-PUN-5
+TXN450,24-06-2024,12:57:00,BPCL,delhi-pump-04,delhi,diesel,14.46,87.21,1261.06,Cash,bike,No,1,E-DEL-4
+TXN451,24-02-2024,00:56:00,IOCL,chennai-pump-05,chennai,petrol,10.79,94.65,1021.27,Cash,bike,Yes,2,E-CHE-2
+TXN452,20-02-2025,23:47:00,HP,bangalore-pump-07,bangalore,petrol,21.89,94.82,2075.61,UPI,car,Yes,5,E-BAN-5
+TXN453,17-05-2024,22:03:00,IOCL,mumbai-pump-04,mumbai,diesel,39.64,88.12,3493.08,Cash,car,No,3,E-MUM-4
+TXN454,28-10-2025,14:35:00,HP,delhi-pump-01,delhi,power petrol,12.52,99.77,1249.12,UPI,bike,No,3,E-DEL-1
+TXN455,04-01-2024,21:19:00,IOCL,delhi-pump-04,delhi,diesel,22.34,87.12,1946.26,Cash,car,Yes,3,E-DEL-3
+TXN456,13-11-2024,15:26:00,HP,pune-pump-01,pune,petrol,9.95,94.42,939.48,Cash,bike,Yes,5,E-PUN-1
+TXN457,27-06-2024,07:27:00,HP,bangalore-pump-07,bangalore,diesel,18.33,88.07,1614.32,Cash,car,No,5,E-BAN-2
+TXN458,16-10-2024,03:41:00,BPCL,chennai-pump-03,chennai,diesel,8.06,87.63,706.3,Card,bike,No,3,E-CHE-4
+TXN459,10-01-2025,06:50:00,HP,mumbai-pump-04,mumbai,diesel,5.09,87.82,447,Cash,bike,No,4,E-MUM-3
+TXN460,04-02-2025,19:02:00,BPCL,delhi-pump-01,delhi,diesel,39.51,87.67,3463.84,Card,car,Yes,4,E-DEL-4
+TXN461,19-04-2024,21:22:00,BPCL,delhi-pump-04,delhi,power petrol,43.18,99.15,4281.3,UPI,car,No,4,E-DEL-1
+TXN462,18-02-2025,03:24:00,HP,delhi-pump-04,delhi,power petrol,5.53,99.74,551.56,Card,bike,Yes,3,E-DEL-2
+TXN463,20-07-2025,03:55:00,BPCL,chennai-pump-03,chennai,power petrol,14.46,99.63,1440.65,Card,bike,Yes,1,E-CHE-4
+TXN464,16-06-2024,17:58:00,IOCL,bangalore-pump-07,bangalore,diesel,12.14,87.16,1058.12,UPI,bike,Yes,2,E-BAN-2
+TXN465,30-10-2025,23:30:00,BPCL,pune-pump-06,pune,power petrol,41.29,99.29,4099.68,Card,car,No,2,E-PUN-2
+TXN466,07-12-2024,22:08:00,IOCL,bangalore-pump-07,bangalore,power petrol,44.44,99.64,4428,Cash,car,Yes,2,E-BAN-2
+TXN467,19-06-2024,16:29:00,HP,delhi-pump-04,delhi,diesel,8.92,88.05,785.41,Card,bike,No,2,E-DEL-1
+TXN468,08-09-2025,07:58:00,BPCL,delhi-pump-01,delhi,petrol,13.4,94.47,1265.9,Card,bike,No,3,E-DEL-4
+TXN469,23-04-2025,13:03:00,BPCL,chennai-pump-05,chennai,diesel,44.62,87.3,3895.33,Card,car,No,1,E-CHE-1
+TXN470,14-06-2024,19:05:00,BPCL,bangalore-pump-07,bangalore,diesel,5.64,87.64,494.29,Cash,bike,Yes,1,E-BAN-1
+TXN471,17-02-2025,10:57:00,BPCL,bangalore-pump-07,bangalore,petrol,25.97,94.8,2461.96,Cash,car,Yes,1,E-BAN-4
+TXN472,30-05-2025,08:02:00,HP,pune-pump-01,pune,petrol,22.66,94.24,2135.48,Card,car,Yes,5,E-PUN-4
+TXN473,23-04-2025,08:16:00,IOCL,bangalore-pump-07,bangalore,petrol,13.16,94.23,1240.07,UPI,bike,No,3,E-BAN-5
+TXN474,15-05-2025,06:52:00,IOCL,mumbai-pump-02,mumbai,power petrol,12.4,99.42,1232.81,Cash,bike,No,5,E-MUM-5
+TXN475,07-11-2024,11:50:00,HP,pune-pump-06,pune,diesel,5.58,87.51,488.31,Card,bike,Yes,4,E-PUN-5
+TXN476,27-09-2024,05:52:00,IOCL,delhi-pump-04,delhi,power petrol,10.93,98.97,1081.74,Card,bike,Yes,4,E-DEL-1
+TXN477,15-08-2024,23:17:00,BPCL,bangalore-pump-07,bangalore,petrol,37.91,94.45,3580.6,Card,car,No,4,E-BAN-4
+TXN478,28-07-2024,02:14:00,BPCL,delhi-pump-04,delhi,power petrol,33.54,99.39,3333.54,UPI,car,No,1,E-DEL-5
+TXN479,16-08-2025,21:21:00,BPCL,pune-pump-06,pune,diesel,18.6,88.11,1638.85,Card,car,No,5,E-PUN-4
+TXN480,14-11-2025,10:08:00,IOCL,pune-pump-06,pune,diesel,8.83,87.54,772.98,Cash,bike,Yes,1,E-PUN-1
+TXN481,11-10-2024,10:02:00,HP,pune-pump-01,pune,petrol,23.63,94.79,2239.89,Card,car,Yes,5,E-PUN-2
+TXN482,15-01-2025,08:19:00,HP,mumbai-pump-02,mumbai,diesel,42.99,87.57,3764.63,Cash,car,No,5,E-MUM-1
+TXN483,15-09-2024,20:40:00,BPCL,delhi-pump-04,delhi,petrol,38.56,94.64,3649.32,UPI,car,No,1,E-DEL-3
+TXN484,02-12-2024,15:02:00,IOCL,pune-pump-06,pune,power petrol,43.68,99.66,4353.15,Cash,car,No,3,E-PUN-1
+TXN485,23-11-2024,08:31:00,IOCL,chennai-pump-05,chennai,power petrol,10.28,99.01,1017.82,Card,bike,No,1,E-CHE-4
+TXN486,23-02-2024,13:03:00,IOCL,chennai-pump-03,chennai,petrol,39.03,94.36,3682.87,Card,car,No,5,E-CHE-1
+TXN487,13-03-2025,19:41:00,HP,bangalore-pump-07,bangalore,power petrol,24.32,99.32,2415.46,Card,car,No,5,E-BAN-1
+TXN488,14-02-2024,11:24:00,BPCL,chennai-pump-03,chennai,petrol,12.15,94.76,1151.33,Card,bike,No,3,E-CHE-4
+TXN489,12-06-2025,21:36:00,IOCL,mumbai-pump-02,mumbai,diesel,34.12,87.58,2988.23,UPI,car,Yes,5,E-MUM-2
+TXN490,05-01-2025,04:14:00,IOCL,chennai-pump-03,chennai,petrol,29.35,94.96,2787.08,Cash,car,Yes,3,E-CHE-1
+TXN491,08-05-2025,00:26:00,BPCL,bangalore-pump-07,bangalore,diesel,37.91,87.63,3322.05,UPI,car,Yes,5,E-BAN-2
+TXN492,24-07-2025,03:22:00,HP,bangalore-pump-07,bangalore,petrol,16.2,94.66,1533.49,Card,car,Yes,3,E-BAN-2
+TXN493,01-10-2025,17:09:00,IOCL,mumbai-pump-04,mumbai,diesel,45.11,87.26,3936.3,UPI,car,Yes,1,E-MUM-4
+TXN494,01-11-2024,08:23:00,HP,mumbai-pump-04,mumbai,power petrol,25.13,99.08,2489.88,UPI,car,Yes,5,E-MUM-4
+TXN495,13-10-2025,12:45:00,IOCL,delhi-pump-04,delhi,power petrol,6.16,99.4,612.3,Card,bike,No,3,E-DEL-3
+TXN496,17-02-2025,08:49:00,IOCL,delhi-pump-04,delhi,petrol,19.44,94.34,1833.97,Card,car,No,2,E-DEL-5
+TXN497,27-04-2024,03:35:00,IOCL,chennai-pump-05,chennai,petrol,31.82,94.92,3020.35,Card,car,No,2,E-CHE-4
+TXN498,10-08-2024,10:24:00,IOCL,bangalore-pump-07,bangalore,diesel,8.5,87.61,744.68,Cash,bike,No,3,E-BAN-3
+TXN499,13-01-2024,22:58:00,BPCL,chennai-pump-03,chennai,petrol,12.01,94.54,1135.43,Cash,bike,No,3,E-CHE-3
+TXN500,17-09-2025,05:16:00,BPCL,bangalore-pump-07,bangalore,diesel,38.07,87.34,3325.03,UPI,car,Yes,3,E-BAN-3
+TXN501,28-03-2025,10:36:00,BPCL,delhi-pump-04,delhi,diesel,9.22,87.66,808.23,Card,bike,Yes,1,E-DEL-4
+TXN502,30-10-2024,16:59:00,BPCL,delhi-pump-01,delhi,diesel,11.38,87.87,999.96,UPI,bike,Yes,4,E-DEL-3
+TXN503,27-10-2024,15:24:00,BPCL,mumbai-pump-02,mumbai,power petrol,43.61,99.24,4327.86,Cash,car,No,4,E-MUM-2
+TXN504,02-10-2025,20:23:00,BPCL,pune-pump-06,pune,petrol,23.58,94.69,2232.79,UPI,car,Yes,4,E-PUN-2
+TXN505,05-05-2025,23:06:00,IOCL,pune-pump-06,pune,power petrol,5.52,99.82,551.01,UPI,bike,No,5,E-PUN-2
+TXN506,25-05-2024,05:06:00,HP,mumbai-pump-04,mumbai,petrol,11.09,94.66,1049.78,UPI,bike,Yes,3,E-MUM-4
+TXN507,18-03-2024,11:24:00,BPCL,pune-pump-06,pune,diesel,28.19,87.36,2462.68,Cash,car,Yes,2,E-PUN-1
+TXN508,22-05-2025,03:53:00,HP,delhi-pump-04,delhi,petrol,46.21,94.75,4378.4,Cash,car,Yes,5,E-DEL-5
+TXN509,16-08-2025,09:17:00,BPCL,chennai-pump-03,chennai,power petrol,5,99.25,496.25,Card,bike,Yes,4,E-CHE-2
+TXN510,05-11-2024,03:29:00,HP,delhi-pump-01,delhi,power petrol,7.98,99.23,791.86,Cash,bike,Yes,2,E-DEL-5
+TXN511,04-02-2024,23:48:00,BPCL,chennai-pump-03,chennai,petrol,30.47,95.18,2900.13,UPI,car,No,1,E-CHE-1
+TXN512,20-07-2024,01:00:00,HP,chennai-pump-03,chennai,petrol,42.66,94.71,4040.33,Cash,car,Yes,4,E-CHE-1
+TXN513,21-03-2025,20:40:00,BPCL,delhi-pump-04,delhi,petrol,28.73,95.16,2733.95,UPI,car,Yes,4,E-DEL-5
+TXN514,19-06-2025,00:44:00,IOCL,chennai-pump-03,chennai,petrol,18.68,95.07,1775.91,UPI,car,No,3,E-CHE-1
+TXN515,04-04-2025,09:12:00,BPCL,chennai-pump-05,chennai,power petrol,30.95,99.1,3067.14,Cash,car,Yes,3,E-CHE-4
+TXN516,20-08-2024,12:48:00,HP,mumbai-pump-02,mumbai,power petrol,23.59,99.42,2345.32,Card,car,Yes,3,E-MUM-5
+TXN517,18-01-2024,02:34:00,BPCL,mumbai-pump-04,mumbai,power petrol,10.7,99.79,1067.75,Card,bike,No,4,E-MUM-3
+TXN518,08-02-2024,20:06:00,HP,pune-pump-01,pune,power petrol,16.33,99.95,1632.18,Cash,car,Yes,5,E-PUN-3
+TXN519,15-08-2025,13:55:00,IOCL,mumbai-pump-02,mumbai,diesel,9.77,87.72,857.02,Card,bike,No,1,E-MUM-5
+TXN520,02-04-2024,09:36:00,BPCL,bangalore-pump-07,bangalore,petrol,16.97,94.93,1610.96,UPI,car,Yes,5,E-BAN-3
+TXN521,15-12-2025,16:13:00,IOCL,pune-pump-06,pune,petrol,19.53,94.78,1851.05,Cash,car,Yes,1,E-PUN-3
+TXN522,29-10-2025,10:04:00,IOCL,pune-pump-06,pune,diesel,12.55,87.47,1097.75,UPI,bike,No,4,E-PUN-1
+TXN523,30-04-2024,03:39:00,BPCL,chennai-pump-03,chennai,petrol,47.63,94.85,4517.71,Card,car,No,5,E-CHE-5
+TXN524,30-11-2024,01:48:00,HP,mumbai-pump-04,mumbai,power petrol,7.02,99.45,698.14,UPI,bike,Yes,5,E-MUM-2
+TXN525,15-10-2024,06:03:00,HP,pune-pump-06,pune,petrol,14.06,94.39,1327.12,Cash,bike,Yes,1,E-PUN-3
+TXN526,27-03-2024,23:15:00,BPCL,mumbai-pump-04,mumbai,power petrol,12.91,99.48,1284.29,Cash,bike,No,2,E-MUM-2
+TXN527,20-12-2024,09:38:00,HP,pune-pump-06,pune,power petrol,21.56,99.06,2135.73,Cash,car,No,3,E-PUN-1
+TXN528,24-08-2025,03:21:00,HP,bangalore-pump-07,bangalore,petrol,30.81,94.64,2915.86,Cash,car,Yes,2,E-BAN-1
+TXN529,17-04-2024,21:21:00,IOCL,delhi-pump-01,delhi,power petrol,37.45,99.63,3731.14,Card,car,Yes,1,E-DEL-5
+TXN530,25-09-2025,20:22:00,HP,mumbai-pump-02,mumbai,petrol,6.63,94.54,626.8,Cash,bike,No,1,E-MUM-4
+TXN531,03-04-2024,05:57:00,IOCL,mumbai-pump-04,mumbai,petrol,6.02,95.08,572.38,Cash,bike,No,3,E-MUM-2
+TXN532,18-12-2024,09:48:00,HP,delhi-pump-01,delhi,diesel,10.52,87.78,923.45,Card,bike,No,4,E-DEL-4
+TXN533,29-03-2024,18:14:00,BPCL,mumbai-pump-02,mumbai,petrol,12.73,94.68,1205.28,Card,bike,No,4,E-MUM-2
+TXN534,30-09-2024,13:53:00,IOCL,pune-pump-01,pune,petrol,35.49,94.84,3365.87,UPI,car,Yes,2,E-PUN-2
+TXN535,10-01-2024,05:38:00,IOCL,delhi-pump-04,delhi,diesel,28.73,87.17,2504.39,Card,car,Yes,1,E-DEL-4
+TXN536,19-05-2025,18:43:00,BPCL,mumbai-pump-04,mumbai,petrol,34.78,94.75,3295.41,UPI,car,Yes,2,E-MUM-1
+TXN537,12-04-2024,01:20:00,HP,mumbai-pump-04,mumbai,power petrol,43.99,99.66,4384.04,Card,car,Yes,2,E-MUM-4
+TXN538,27-09-2024,09:01:00,BPCL,delhi-pump-04,delhi,petrol,39.63,94.37,3739.88,Cash,car,Yes,4,E-DEL-4
+TXN539,01-06-2025,07:02:00,HP,delhi-pump-01,delhi,diesel,6.78,87.99,596.57,Cash,bike,No,3,E-DEL-2
+TXN540,18-10-2025,13:52:00,IOCL,mumbai-pump-04,mumbai,diesel,27.72,87.8,2433.82,Card,car,Yes,5,E-MUM-3
+TXN541,20-08-2025,23:31:00,HP,pune-pump-06,pune,petrol,9.32,94.33,879.16,Cash,bike,No,1,E-PUN-2
+TXN542,24-05-2024,05:48:00,BPCL,delhi-pump-04,delhi,power petrol,6.79,99.64,676.56,Card,bike,No,2,E-DEL-5
+TXN543,03-01-2024,09:33:00,HP,chennai-pump-05,chennai,petrol,47.54,94.7,4502.04,Cash,car,Yes,2,E-CHE-5
+TXN544,02-07-2025,04:06:00,BPCL,mumbai-pump-04,mumbai,power petrol,12.42,99,1229.58,Card,bike,Yes,1,E-MUM-5
+TXN545,13-10-2024,06:10:00,IOCL,mumbai-pump-02,mumbai,petrol,49.84,95.08,4738.79,Cash,car,Yes,2,E-MUM-2
+TXN546,17-04-2025,18:57:00,IOCL,mumbai-pump-04,mumbai,petrol,12.86,94.42,1214.24,Cash,bike,Yes,3,E-MUM-5
+TXN547,29-09-2025,16:05:00,HP,chennai-pump-05,chennai,petrol,41.06,94.42,3876.89,UPI,car,No,2,E-CHE-5
+TXN548,05-07-2024,23:48:00,HP,pune-pump-06,pune,power petrol,7.79,99.57,775.65,Card,bike,Yes,4,E-PUN-2
+TXN549,09-04-2025,08:38:00,HP,pune-pump-01,pune,power petrol,18.01,99.89,1799.02,Cash,car,Yes,1,E-PUN-5
+TXN550,02-07-2024,02:46:00,BPCL,chennai-pump-05,chennai,diesel,16.41,87.22,1431.28,Cash,car,No,5,E-CHE-5
+TXN551,08-09-2025,21:32:00,BPCL,delhi-pump-01,delhi,diesel,31.86,87.17,2777.24,UPI,car,No,1,E-DEL-2
+TXN552,12-07-2025,20:10:00,BPCL,pune-pump-01,pune,power petrol,34.9,99.18,3461.38,Cash,car,No,5,E-PUN-4
+TXN553,06-09-2024,01:34:00,HP,bangalore-pump-07,bangalore,petrol,32.31,95.09,3072.36,Cash,car,No,5,E-BAN-3
+TXN554,23-01-2024,17:15:00,IOCL,mumbai-pump-04,mumbai,power petrol,33.95,99.32,3371.91,Cash,car,Yes,5,E-MUM-5
+TXN555,18-10-2024,17:06:00,HP,chennai-pump-05,chennai,petrol,9.7,94.97,921.21,UPI,bike,Yes,3,E-CHE-5
+TXN556,11-10-2024,05:51:00,BPCL,chennai-pump-03,chennai,power petrol,5.22,99.85,521.22,Cash,bike,Yes,1,E-CHE-5
+TXN557,11-08-2024,15:38:00,IOCL,chennai-pump-05,chennai,diesel,16.89,87.43,1476.69,Card,car,No,3,E-CHE-3
+TXN558,25-01-2024,18:14:00,IOCL,chennai-pump-05,chennai,diesel,27.38,87.21,2387.81,UPI,car,No,2,E-CHE-2
+TXN559,03-05-2025,09:14:00,BPCL,pune-pump-01,pune,diesel,5.28,87.72,463.16,Card,bike,Yes,5,E-PUN-4
+TXN560,15-09-2024,05:55:00,IOCL,pune-pump-06,pune,diesel,15.96,87.26,1392.67,UPI,car,No,4,E-PUN-4
+TXN561,30-07-2024,00:41:00,BPCL,pune-pump-01,pune,diesel,17.51,87.55,1533,UPI,car,No,2,E-PUN-3
+TXN562,09-03-2025,19:58:00,IOCL,mumbai-pump-04,mumbai,petrol,14.34,94.67,1357.57,Card,bike,No,1,E-MUM-4
+TXN563,08-09-2025,23:42:00,BPCL,delhi-pump-04,delhi,power petrol,5.66,99.6,563.74,Cash,bike,No,2,E-DEL-3
+TXN564,21-06-2025,13:20:00,IOCL,mumbai-pump-02,mumbai,power petrol,11.86,99.52,1180.31,Cash,bike,Yes,2,E-MUM-2
+TXN565,30-03-2025,23:39:00,IOCL,mumbai-pump-02,mumbai,petrol,41.38,94.45,3908.34,Cash,car,Yes,4,E-MUM-2
+TXN566,14-12-2024,19:27:00,HP,delhi-pump-01,delhi,petrol,7.74,94.41,730.73,Cash,bike,Yes,1,E-DEL-4
+TXN567,07-06-2025,04:59:00,HP,mumbai-pump-04,mumbai,petrol,20.51,94.94,1947.22,Card,car,No,2,E-MUM-2
+TXN568,09-06-2025,01:17:00,HP,delhi-pump-01,delhi,diesel,41.44,87.36,3620.2,UPI,car,Yes,4,E-DEL-5
+TXN569,26-07-2024,12:19:00,BPCL,chennai-pump-03,chennai,petrol,32.64,94.57,3086.76,Cash,car,Yes,5,E-CHE-5
+TXN570,01-08-2024,03:13:00,BPCL,mumbai-pump-02,mumbai,power petrol,6.4,99.9,639.36,UPI,bike,No,4,E-MUM-3
+TXN571,05-12-2024,22:56:00,IOCL,mumbai-pump-04,mumbai,power petrol,11.67,99.72,1163.73,Card,bike,Yes,2,E-MUM-4
+TXN572,30-05-2025,16:45:00,BPCL,mumbai-pump-02,mumbai,diesel,16.8,87.69,1473.19,Card,car,Yes,4,E-MUM-2
+TXN573,02-04-2025,20:55:00,HP,pune-pump-06,pune,petrol,38.07,94.54,3599.14,Cash,car,Yes,5,E-PUN-2
+TXN574,16-03-2024,04:37:00,HP,chennai-pump-05,chennai,petrol,13.08,94.76,1239.46,Cash,bike,Yes,1,E-CHE-2
+TXN575,11-06-2025,05:07:00,HP,pune-pump-01,pune,power petrol,5.2,99.45,517.14,Cash,bike,Yes,4,E-PUN-3
+TXN576,20-01-2024,18:24:00,HP,mumbai-pump-02,mumbai,power petrol,9.62,99.59,958.06,UPI,bike,No,3,E-MUM-3
+TXN577,23-04-2024,22:24:00,BPCL,bangalore-pump-07,bangalore,petrol,23.76,94.49,2245.08,Card,car,No,1,E-BAN-3
+TXN578,02-12-2025,10:56:00,BPCL,delhi-pump-01,delhi,petrol,9.22,95.17,877.47,Card,bike,No,3,E-DEL-2
+TXN579,18-11-2025,19:44:00,BPCL,bangalore-pump-07,bangalore,power petrol,30.03,99.76,2995.79,Card,car,No,1,E-BAN-1
+TXN580,27-08-2024,00:20:00,HP,chennai-pump-05,chennai,diesel,5.77,87.15,502.86,UPI,bike,Yes,4,E-CHE-1
+TXN581,07-12-2025,03:14:00,IOCL,bangalore-pump-07,bangalore,petrol,39.95,94.75,3785.26,UPI,car,Yes,5,E-BAN-5
+TXN582,01-12-2025,06:56:00,HP,chennai-pump-03,chennai,diesel,8.9,87.96,782.84,Cash,bike,No,2,E-CHE-4
+TXN583,25-10-2025,21:12:00,BPCL,delhi-pump-01,delhi,petrol,22.23,94.61,2103.18,Cash,car,No,5,E-DEL-1
+TXN584,04-06-2024,09:25:00,IOCL,delhi-pump-01,delhi,petrol,9.8,95.1,931.98,Cash,bike,No,1,E-DEL-2
+TXN585,19-02-2025,20:26:00,BPCL,chennai-pump-03,chennai,diesel,30.3,87.7,2657.31,Card,car,Yes,1,E-CHE-4
+TXN586,22-01-2025,21:01:00,IOCL,pune-pump-01,pune,petrol,12.61,94.41,1190.51,Cash,bike,Yes,3,E-PUN-3
+TXN587,05-04-2025,05:11:00,BPCL,pune-pump-01,pune,diesel,5.58,87.27,486.97,UPI,bike,Yes,2,E-PUN-3
+TXN588,19-06-2024,16:56:00,HP,mumbai-pump-02,mumbai,petrol,45.13,94.59,4268.85,UPI,car,Yes,4,E-MUM-1
+TXN589,19-03-2025,12:42:00,IOCL,pune-pump-06,pune,power petrol,27.72,99.46,2757.03,Card,car,Yes,2,E-PUN-3
+TXN590,08-08-2025,11:56:00,IOCL,chennai-pump-03,chennai,petrol,14.06,95.14,1337.67,Cash,bike,No,2,E-CHE-5
+TXN591,30-08-2024,18:15:00,HP,pune-pump-01,pune,diesel,28.5,87.77,2501.44,Cash,car,Yes,3,E-PUN-5
+TXN592,23-08-2025,12:36:00,BPCL,chennai-pump-03,chennai,power petrol,9.98,99.61,994.11,Card,bike,Yes,4,E-CHE-2
+TXN593,03-01-2024,02:16:00,IOCL,bangalore-pump-07,bangalore,power petrol,11,98.96,1088.56,Card,bike,Yes,3,E-BAN-1
+TXN594,18-06-2025,09:44:00,BPCL,chennai-pump-03,chennai,petrol,28.26,94.41,2668.03,Card,car,Yes,3,E-CHE-5
+TXN595,06-01-2024,09:48:00,BPCL,chennai-pump-05,chennai,power petrol,8.5,99.29,843.97,Cash,bike,Yes,4,E-CHE-2
+TXN596,20-09-2025,03:57:00,IOCL,delhi-pump-04,delhi,diesel,13.99,87.52,1224.4,UPI,bike,No,4,E-DEL-2
+TXN597,11-06-2024,04:19:00,HP,delhi-pump-04,delhi,diesel,11.44,87.55,1001.57,UPI,bike,Yes,3,E-DEL-2
+TXN598,24-12-2024,20:12:00,HP,delhi-pump-01,delhi,power petrol,28.07,99.13,2782.58,UPI,car,Yes,4,E-DEL-1
+TXN599,15-11-2024,19:55:00,HP,pune-pump-01,pune,petrol,15.67,94.98,1488.34,UPI,car,Yes,5,E-PUN-4
+TXN600,01-08-2024,09:41:00,HP,mumbai-pump-04,mumbai,power petrol,8.43,99.68,840.3,Card,bike,No,3,E-MUM-5
+TXN601,22-06-2024,15:26:00,BPCL,pune-pump-01,pune,petrol,12.13,94.45,1145.68,Card,bike,No,4,E-PUN-5
+TXN602,12-05-2025,21:09:00,BPCL,bangalore-pump-07,bangalore,diesel,31.22,88.02,2747.98,UPI,car,Yes,4,E-BAN-3
+TXN603,31-08-2024,05:24:00,BPCL,chennai-pump-03,chennai,petrol,37.14,94.68,3516.42,UPI,car,No,4,E-CHE-5
+TXN604,13-10-2025,18:32:00,HP,pune-pump-06,pune,diesel,15.11,88.06,1330.59,Cash,car,No,2,E-PUN-4
+TXN605,01-05-2024,00:55:00,BPCL,delhi-pump-01,delhi,petrol,35.89,94.36,3386.58,UPI,car,Yes,2,E-DEL-3
+TXN606,08-07-2024,18:08:00,IOCL,pune-pump-01,pune,power petrol,8.21,99.43,816.32,Card,bike,Yes,3,E-PUN-2
+TXN607,12-01-2024,06:26:00,BPCL,mumbai-pump-02,mumbai,diesel,45.59,87.76,4000.98,Cash,car,Yes,5,E-MUM-1
+TXN608,27-04-2025,19:48:00,HP,bangalore-pump-07,bangalore,petrol,43.62,94.54,4123.83,UPI,car,No,3,E-BAN-2
+TXN609,04-12-2024,10:17:00,BPCL,pune-pump-01,pune,diesel,6.54,87.69,573.49,UPI,bike,No,5,E-PUN-5
+TXN610,28-02-2025,03:32:00,HP,delhi-pump-01,delhi,petrol,12.63,94.48,1193.28,UPI,bike,Yes,4,E-DEL-1
+TXN611,22-05-2025,13:20:00,HP,chennai-pump-03,chennai,diesel,29.62,88.01,2606.86,Cash,car,Yes,2,E-CHE-5
+TXN612,09-12-2024,01:08:00,IOCL,mumbai-pump-04,mumbai,power petrol,11.01,99.79,1098.69,Card,bike,No,4,E-MUM-3
+TXN613,20-07-2024,11:48:00,HP,delhi-pump-01,delhi,power petrol,5.19,99.78,517.86,UPI,bike,No,1,E-DEL-3
+TXN614,22-06-2025,02:34:00,IOCL,pune-pump-01,pune,diesel,6.14,87.29,535.96,UPI,bike,Yes,2,E-PUN-1
+TXN615,21-08-2025,06:27:00,HP,pune-pump-01,pune,diesel,12.53,87.74,1099.38,Cash,bike,Yes,3,E-PUN-4
+TXN616,04-02-2024,18:15:00,HP,pune-pump-01,pune,power petrol,38.62,99.43,3839.99,Cash,car,No,4,E-PUN-1
+TXN617,29-12-2025,09:00:00,IOCL,delhi-pump-04,delhi,petrol,41.73,94.84,3957.67,Card,car,No,3,E-DEL-1
+TXN618,29-08-2024,09:54:00,HP,bangalore-pump-07,bangalore,diesel,7.47,87.82,656.02,UPI,bike,No,4,E-BAN-3
+TXN619,04-02-2025,20:01:00,HP,pune-pump-06,pune,power petrol,7.86,98.99,778.06,Cash,bike,No,3,E-PUN-1
+TXN620,11-12-2024,19:45:00,BPCL,mumbai-pump-02,mumbai,power petrol,29.33,99.28,2911.88,UPI,car,No,2,E-MUM-3
+TXN621,13-10-2025,15:18:00,HP,mumbai-pump-04,mumbai,power petrol,14.67,99.58,1460.84,UPI,bike,Yes,1,E-MUM-4
+TXN622,03-11-2024,07:32:00,HP,pune-pump-06,pune,petrol,39.54,94.22,3725.46,UPI,car,No,4,E-PUN-5
+TXN623,15-10-2024,09:18:00,IOCL,pune-pump-06,pune,power petrol,38.4,99.55,3822.72,UPI,car,Yes,4,E-PUN-3
+TXN624,15-12-2024,02:52:00,BPCL,bangalore-pump-07,bangalore,diesel,13.24,88.04,1165.65,Cash,bike,Yes,3,E-BAN-1
+TXN625,15-03-2024,11:16:00,BPCL,mumbai-pump-04,mumbai,petrol,26.97,94.28,2542.73,UPI,car,No,3,E-MUM-5
+TXN626,21-10-2025,13:42:00,IOCL,bangalore-pump-07,bangalore,petrol,6.44,94.4,607.94,Card,bike,Yes,5,E-BAN-5
+TXN627,25-08-2025,12:59:00,BPCL,delhi-pump-04,delhi,diesel,9.18,87.67,804.81,Cash,bike,Yes,2,E-DEL-1
+TXN628,26-04-2024,02:25:00,IOCL,pune-pump-06,pune,petrol,37.46,95,3558.7,UPI,car,Yes,5,E-PUN-3
+TXN629,25-07-2024,12:01:00,IOCL,chennai-pump-03,chennai,diesel,7.39,87.6,647.36,UPI,bike,No,3,E-CHE-4
+TXN630,11-05-2024,10:40:00,IOCL,chennai-pump-03,chennai,power petrol,47,99.29,4666.63,Card,car,Yes,3,E-CHE-2
+TXN631,12-11-2024,06:28:00,IOCL,pune-pump-01,pune,diesel,38.85,88.12,3423.46,Card,car,No,1,E-PUN-5
+TXN632,29-07-2025,01:08:00,IOCL,bangalore-pump-07,bangalore,power petrol,8.55,99.14,847.65,Cash,bike,Yes,4,E-BAN-3
+TXN633,19-04-2024,13:21:00,IOCL,pune-pump-06,pune,petrol,21.21,95.08,2016.65,Card,car,Yes,5,E-PUN-5
+TXN634,05-11-2025,02:32:00,BPCL,chennai-pump-03,chennai,diesel,10.89,87.74,955.49,UPI,bike,No,5,E-CHE-5
+TXN635,06-08-2024,13:52:00,HP,bangalore-pump-07,bangalore,diesel,6.16,87.51,539.06,UPI,bike,No,2,E-BAN-2
+TXN636,29-10-2025,06:33:00,IOCL,mumbai-pump-04,mumbai,power petrol,25.26,99.27,2507.56,UPI,car,Yes,3,E-MUM-3
+TXN637,03-09-2024,12:20:00,IOCL,chennai-pump-03,chennai,diesel,10.14,87.74,889.68,UPI,bike,Yes,1,E-CHE-1
+TXN638,25-07-2024,20:50:00,IOCL,pune-pump-06,pune,petrol,14.13,94.85,1340.23,Card,bike,No,3,E-PUN-4
+TXN639,13-11-2025,04:09:00,IOCL,mumbai-pump-02,mumbai,power petrol,11.81,99.44,1174.39,UPI,bike,Yes,2,E-MUM-5
+TXN640,01-12-2024,16:09:00,IOCL,mumbai-pump-02,mumbai,petrol,22.6,95.1,2149.26,UPI,car,No,3,E-MUM-2
+TXN641,04-05-2024,01:18:00,IOCL,mumbai-pump-02,mumbai,diesel,40.04,87.98,3522.72,UPI,car,No,1,E-MUM-4
+TXN642,07-02-2024,11:13:00,IOCL,pune-pump-06,pune,power petrol,5.13,98.95,507.61,Card,bike,No,1,E-PUN-1
+TXN643,12-11-2025,02:29:00,IOCL,bangalore-pump-07,bangalore,power petrol,14.01,99.55,1394.7,Cash,bike,Yes,4,E-BAN-2
+TXN644,15-07-2025,02:37:00,BPCL,mumbai-pump-02,mumbai,petrol,8.75,94.91,830.46,Cash,bike,Yes,4,E-MUM-2
+TXN645,04-04-2025,22:32:00,HP,chennai-pump-03,chennai,power petrol,9.49,99.72,946.34,Card,bike,Yes,3,E-CHE-4
+TXN646,19-09-2024,06:06:00,IOCL,mumbai-pump-04,mumbai,diesel,30.65,87.66,2686.78,Card,car,Yes,5,E-MUM-1
+TXN647,24-04-2025,10:41:00,IOCL,delhi-pump-01,delhi,power petrol,22.39,99.94,2237.66,UPI,car,Yes,1,E-DEL-1
+TXN648,26-03-2025,03:04:00,BPCL,mumbai-pump-04,mumbai,power petrol,6.17,99.4,613.3,UPI,bike,Yes,4,E-MUM-2
+TXN649,05-01-2024,10:23:00,IOCL,chennai-pump-03,chennai,power petrol,6.78,99.36,673.66,Cash,bike,Yes,2,E-CHE-4
+TXN650,23-07-2025,21:38:00,BPCL,chennai-pump-05,chennai,power petrol,9.74,99.87,972.73,Card,bike,No,1,E-CHE-2
+TXN651,05-02-2025,07:53:00,BPCL,pune-pump-01,pune,power petrol,7.76,99.79,774.37,UPI,bike,No,1,E-PUN-1
+TXN652,19-07-2024,13:52:00,IOCL,chennai-pump-05,chennai,petrol,39.39,94.45,3720.39,UPI,car,No,2,E-CHE-4
+TXN653,30-04-2024,18:56:00,BPCL,mumbai-pump-04,mumbai,petrol,11.42,95.06,1085.59,Card,bike,Yes,5,E-MUM-3
+TXN654,18-10-2024,14:48:00,BPCL,delhi-pump-04,delhi,power petrol,37.87,99.7,3775.64,Card,car,Yes,5,E-DEL-3
+TXN655,07-02-2024,01:00:00,HP,mumbai-pump-02,mumbai,diesel,10.11,87.84,888.06,Card,bike,Yes,3,E-MUM-1
+TXN656,11-09-2024,20:02:00,BPCL,chennai-pump-05,chennai,power petrol,32.61,99.01,3228.72,Card,car,No,2,E-CHE-4
+TXN657,20-01-2024,06:58:00,HP,bangalore-pump-07,bangalore,petrol,9.42,94.25,887.84,Card,bike,Yes,5,E-BAN-1
+TXN658,02-07-2024,01:41:00,HP,bangalore-pump-07,bangalore,diesel,32.95,87.29,2876.21,Cash,car,No,2,E-BAN-2
+TXN659,21-01-2025,16:24:00,IOCL,bangalore-pump-07,bangalore,power petrol,13.88,99.57,1382.03,Cash,bike,Yes,1,E-BAN-5
+TXN660,15-03-2024,14:03:00,IOCL,mumbai-pump-02,mumbai,petrol,23.3,94.27,2196.49,UPI,car,Yes,2,E-MUM-1
+TXN661,20-04-2025,03:13:00,IOCL,chennai-pump-03,chennai,diesel,11.34,87.66,994.06,Card,bike,Yes,1,E-CHE-3
+TXN662,08-10-2025,02:18:00,IOCL,pune-pump-01,pune,diesel,30.68,87.96,2698.61,Card,car,No,3,E-PUN-3
+TXN663,10-09-2024,03:39:00,HP,bangalore-pump-07,bangalore,diesel,39.07,87.84,3431.91,Card,car,Yes,4,E-BAN-3
+TXN664,04-02-2025,10:12:00,HP,chennai-pump-05,chennai,power petrol,44.3,99.2,4394.56,Card,car,Yes,3,E-CHE-4
+TXN665,13-10-2024,07:15:00,BPCL,pune-pump-06,pune,petrol,8.14,94.31,767.68,UPI,bike,No,3,E-PUN-3
+TXN666,19-11-2024,20:35:00,BPCL,mumbai-pump-04,mumbai,petrol,37.4,94.34,3528.32,Cash,car,No,2,E-MUM-1
+TXN667,30-08-2025,13:13:00,HP,mumbai-pump-04,mumbai,power petrol,5.84,99.34,580.15,Card,bike,Yes,2,E-MUM-3
+TXN668,25-06-2024,10:50:00,HP,mumbai-pump-04,mumbai,petrol,46.18,95.09,4391.26,Card,car,Yes,2,E-MUM-4
+TXN669,26-11-2025,01:22:00,IOCL,mumbai-pump-02,mumbai,petrol,11.03,94.72,1044.76,UPI,bike,No,2,E-MUM-3
+TXN670,04-03-2024,23:26:00,BPCL,mumbai-pump-02,mumbai,diesel,35.88,87.89,3153.49,UPI,car,Yes,3,E-MUM-3
+TXN671,21-02-2024,06:24:00,IOCL,mumbai-pump-02,mumbai,petrol,12.01,94.51,1135.07,Card,bike,Yes,5,E-MUM-1
+TXN672,18-04-2024,09:25:00,BPCL,bangalore-pump-07,bangalore,diesel,12.2,87.96,1073.11,UPI,bike,No,1,E-BAN-3
+TXN673,05-01-2024,07:42:00,BPCL,delhi-pump-04,delhi,petrol,49.61,94.36,4681.2,Card,car,No,2,E-DEL-2
+TXN674,26-06-2025,13:13:00,HP,chennai-pump-03,chennai,petrol,29.31,94.4,2766.86,Cash,car,Yes,3,E-CHE-5
+TXN675,31-03-2025,04:59:00,HP,chennai-pump-05,chennai,petrol,26.62,95,2528.9,Cash,car,Yes,4,E-CHE-5
+TXN676,07-06-2025,20:28:00,BPCL,chennai-pump-05,chennai,petrol,19.65,95.01,1866.95,UPI,car,No,1,E-CHE-1
+TXN677,27-10-2025,15:37:00,HP,chennai-pump-05,chennai,petrol,45.8,94.98,4350.08,Card,car,Yes,3,E-CHE-3
+TXN678,03-10-2025,12:15:00,IOCL,mumbai-pump-02,mumbai,petrol,10.19,94.28,960.71,UPI,bike,Yes,5,E-MUM-4
+TXN679,10-09-2024,10:18:00,IOCL,mumbai-pump-04,mumbai,diesel,36.06,88.08,3176.16,Card,car,Yes,3,E-MUM-1
+TXN680,23-06-2024,01:32:00,HP,mumbai-pump-04,mumbai,petrol,23.56,94.23,2220.06,Cash,car,No,3,E-MUM-5
+TXN681,19-07-2024,04:23:00,HP,mumbai-pump-04,mumbai,power petrol,19.42,99.14,1925.3,UPI,car,No,1,E-MUM-4
+TXN682,18-08-2024,21:24:00,BPCL,pune-pump-01,pune,diesel,30.06,87.49,2629.95,UPI,car,Yes,3,E-PUN-1
+TXN683,10-04-2024,03:23:00,IOCL,mumbai-pump-04,mumbai,petrol,5.63,94.67,532.99,Card,bike,Yes,1,E-MUM-3
+TXN684,03-02-2024,21:57:00,HP,delhi-pump-01,delhi,power petrol,32.18,99.64,3206.42,Cash,car,Yes,2,E-DEL-1
+TXN685,25-04-2025,08:20:00,BPCL,pune-pump-01,pune,power petrol,16.39,99.92,1637.69,UPI,car,No,1,E-PUN-3
+TXN686,12-03-2024,18:03:00,HP,delhi-pump-01,delhi,diesel,15.81,87.23,1379.11,UPI,car,Yes,1,E-DEL-5
+TXN687,02-04-2024,10:56:00,BPCL,mumbai-pump-02,mumbai,power petrol,22.86,99.07,2264.74,UPI,car,No,5,E-MUM-2
+TXN688,27-03-2024,10:55:00,BPCL,chennai-pump-05,chennai,petrol,7.93,94.82,751.92,UPI,bike,Yes,4,E-CHE-3
+TXN689,19-10-2025,21:30:00,BPCL,mumbai-pump-02,mumbai,power petrol,19.56,99.3,1942.31,Cash,car,No,1,E-MUM-5
+TXN690,21-05-2024,02:43:00,HP,chennai-pump-05,chennai,petrol,16.04,94.87,1521.71,Cash,car,No,4,E-CHE-1
+TXN691,18-06-2024,11:37:00,HP,delhi-pump-04,delhi,petrol,6.17,94.52,583.19,Cash,bike,No,5,E-DEL-5
+TXN692,13-07-2025,02:53:00,HP,mumbai-pump-04,mumbai,power petrol,40.01,99.32,3973.79,Cash,car,No,4,E-MUM-1
+TXN693,18-07-2025,21:12:00,IOCL,pune-pump-01,pune,diesel,26.45,87.55,2315.7,Cash,car,Yes,3,E-PUN-1
+TXN694,21-10-2025,08:26:00,IOCL,delhi-pump-04,delhi,power petrol,11.02,99.05,1091.53,Card,bike,Yes,2,E-DEL-2
+TXN695,06-07-2024,23:41:00,HP,mumbai-pump-04,mumbai,power petrol,10.91,99.08,1080.96,Cash,bike,Yes,2,E-MUM-1
+TXN696,05-03-2024,02:37:00,IOCL,mumbai-pump-02,mumbai,power petrol,32.2,99.52,3204.54,Cash,car,Yes,1,E-MUM-5
+TXN697,03-12-2024,05:58:00,HP,mumbai-pump-04,mumbai,power petrol,8.01,99.05,793.39,UPI,bike,Yes,1,E-MUM-1
+TXN698,09-06-2025,15:24:00,IOCL,mumbai-pump-02,mumbai,power petrol,10.28,99.7,1024.92,Card,bike,No,4,E-MUM-3
+TXN699,22-08-2024,05:47:00,IOCL,chennai-pump-05,chennai,power petrol,12.02,99.19,1192.26,Cash,bike,Yes,5,E-CHE-1
+TXN700,25-10-2024,08:44:00,HP,chennai-pump-03,chennai,petrol,13.95,94.76,1321.9,Cash,bike,No,1,E-CHE-2
+TXN701,05-12-2024,06:49:00,BPCL,delhi-pump-01,delhi,diesel,6.63,87.18,578,UPI,bike,Yes,2,E-DEL-3
+TXN702,13-03-2024,19:54:00,HP,bangalore-pump-07,bangalore,petrol,10.08,94.86,956.19,UPI,bike,Yes,2,E-BAN-1
+TXN703,05-11-2024,08:47:00,BPCL,mumbai-pump-02,mumbai,petrol,10.37,94.39,978.82,Cash,bike,Yes,2,E-MUM-2
+TXN704,17-04-2024,19:07:00,HP,chennai-pump-05,chennai,petrol,21.68,94.67,2052.45,UPI,car,Yes,3,E-CHE-4
+TXN705,10-02-2025,13:02:00,BPCL,bangalore-pump-07,bangalore,diesel,5.51,87.69,483.17,UPI,bike,No,1,E-BAN-4
+TXN706,10-09-2025,01:26:00,IOCL,delhi-pump-01,delhi,diesel,31,87.79,2721.49,UPI,car,No,1,E-DEL-4
+TXN707,21-11-2024,13:53:00,IOCL,chennai-pump-05,chennai,power petrol,12.63,99.67,1258.83,Card,bike,Yes,4,E-CHE-3
+TXN708,14-06-2024,10:11:00,BPCL,mumbai-pump-02,mumbai,petrol,10.6,94.28,999.37,Card,bike,No,5,E-MUM-4
+TXN709,26-01-2024,19:22:00,HP,pune-pump-01,pune,power petrol,37.77,99.89,3772.85,UPI,car,No,2,E-PUN-2
+TXN710,03-08-2025,19:40:00,IOCL,delhi-pump-04,delhi,power petrol,47.9,99.03,4743.54,UPI,car,Yes,1,E-DEL-2
+TXN711,06-05-2025,08:41:00,BPCL,mumbai-pump-02,mumbai,diesel,34.52,87.88,3033.62,Card,car,No,4,E-MUM-1
+TXN712,23-07-2024,23:40:00,HP,bangalore-pump-07,bangalore,diesel,32.08,88.08,2825.61,Cash,car,Yes,3,E-BAN-4
+TXN713,21-04-2024,09:26:00,BPCL,delhi-pump-01,delhi,power petrol,11.24,99.27,1115.79,Card,bike,No,3,E-DEL-1
+TXN714,20-12-2025,12:34:00,HP,chennai-pump-03,chennai,power petrol,29.06,99.36,2887.4,Cash,car,Yes,3,E-CHE-4
+TXN715,22-05-2024,18:45:00,BPCL,pune-pump-01,pune,power petrol,20.27,99.79,2022.74,UPI,car,No,3,E-PUN-3
+TXN716,02-02-2024,14:27:00,HP,mumbai-pump-04,mumbai,power petrol,9.51,98.98,941.3,Card,bike,Yes,5,E-MUM-4
+TXN717,13-11-2025,21:09:00,BPCL,chennai-pump-03,chennai,power petrol,38.48,99.8,3840.3,UPI,car,Yes,5,E-CHE-2
+TXN718,28-04-2024,16:21:00,IOCL,delhi-pump-04,delhi,petrol,11.1,94.82,1052.5,UPI,bike,No,1,E-DEL-2
+TXN719,10-06-2025,04:47:00,IOCL,mumbai-pump-02,mumbai,diesel,17,87.93,1494.81,Cash,car,Yes,2,E-MUM-3
+TXN720,12-08-2024,15:30:00,BPCL,pune-pump-06,pune,petrol,9.42,95.22,896.97,UPI,bike,Yes,4,E-PUN-3
+TXN721,18-12-2025,01:12:00,BPCL,chennai-pump-03,chennai,petrol,41.97,95.02,3987.99,Card,car,No,4,E-CHE-2
+TXN722,06-06-2024,19:12:00,BPCL,pune-pump-06,pune,petrol,8.91,94.95,846,Cash,bike,No,4,E-PUN-4
+TXN723,16-03-2024,18:25:00,HP,mumbai-pump-02,mumbai,petrol,14.2,94.73,1345.17,Cash,bike,Yes,5,E-MUM-2
+TXN724,24-01-2024,18:30:00,BPCL,pune-pump-01,pune,diesel,14.26,87.91,1253.6,Cash,bike,Yes,5,E-PUN-1
+TXN725,07-03-2024,11:16:00,BPCL,pune-pump-06,pune,diesel,10.28,87.72,901.76,UPI,bike,Yes,4,E-PUN-4
+TXN726,11-06-2024,08:29:00,HP,pune-pump-01,pune,petrol,6.4,94.78,606.59,Card,bike,Yes,4,E-PUN-3
+TXN727,04-02-2024,21:34:00,HP,mumbai-pump-04,mumbai,power petrol,28.04,99.37,2786.33,Cash,car,Yes,5,E-MUM-1
+TXN728,08-04-2025,18:53:00,IOCL,mumbai-pump-04,mumbai,power petrol,23.15,99.05,2293.01,UPI,car,No,2,E-MUM-4
+TXN729,07-08-2025,05:51:00,IOCL,chennai-pump-03,chennai,diesel,42.64,87.7,3739.53,UPI,car,Yes,3,E-CHE-2
+TXN730,05-04-2025,03:15:00,IOCL,pune-pump-01,pune,diesel,15.71,88.03,1382.95,UPI,car,No,5,E-PUN-5
+TXN731,19-09-2024,23:03:00,HP,chennai-pump-05,chennai,petrol,7.04,94.81,667.46,UPI,bike,Yes,5,E-CHE-2
+TXN732,17-06-2025,07:43:00,IOCL,mumbai-pump-04,mumbai,diesel,10.99,88.07,967.89,UPI,bike,Yes,2,E-MUM-5
+TXN733,06-04-2024,19:27:00,BPCL,delhi-pump-04,delhi,diesel,36.13,87.56,3163.54,UPI,car,Yes,5,E-DEL-1
+TXN734,13-11-2024,09:54:00,BPCL,delhi-pump-01,delhi,petrol,39.37,94.37,3715.35,UPI,car,No,1,E-DEL-1
+TXN735,04-02-2025,08:54:00,HP,mumbai-pump-02,mumbai,power petrol,5.85,99.52,582.19,UPI,bike,No,5,E-MUM-5
+TXN736,03-02-2024,23:50:00,IOCL,pune-pump-01,pune,diesel,7.61,87.91,669,UPI,bike,No,3,E-PUN-5
+TXN737,22-06-2025,20:18:00,IOCL,delhi-pump-01,delhi,petrol,46.55,94.65,4405.96,Card,car,No,5,E-DEL-3
+TXN738,28-08-2024,07:28:00,HP,chennai-pump-05,chennai,diesel,11.57,87.25,1009.48,UPI,bike,No,2,E-CHE-1
+TXN739,01-05-2025,13:49:00,HP,pune-pump-01,pune,diesel,39.18,87.45,3426.29,Cash,car,Yes,4,E-PUN-4
+TXN740,21-01-2025,04:00:00,IOCL,mumbai-pump-04,mumbai,petrol,29.54,94.7,2797.44,Cash,car,Yes,1,E-MUM-4
+TXN741,20-11-2025,06:16:00,IOCL,pune-pump-06,pune,power petrol,46.63,99.5,4639.69,Card,car,No,4,E-PUN-3
+TXN742,03-08-2024,19:54:00,BPCL,pune-pump-06,pune,petrol,7.27,94.23,685.05,Card,bike,Yes,1,E-PUN-2
+TXN743,26-04-2025,07:27:00,BPCL,chennai-pump-05,chennai,petrol,21.97,94.91,2085.17,UPI,car,Yes,4,E-CHE-2
+TXN744,14-06-2025,04:27:00,BPCL,chennai-pump-03,chennai,diesel,42.54,87.18,3708.64,Cash,car,Yes,5,E-CHE-3
+TXN745,26-06-2024,16:32:00,BPCL,chennai-pump-05,chennai,petrol,45.63,94.94,4332.11,Card,car,No,3,E-CHE-4
+TXN746,01-06-2025,08:15:00,BPCL,pune-pump-01,pune,diesel,41.09,88.03,3617.15,Card,car,Yes,5,E-PUN-5
+TXN747,22-06-2025,04:24:00,BPCL,chennai-pump-05,chennai,diesel,13.98,87.31,1220.59,Card,bike,No,5,E-CHE-5
+TXN748,08-02-2024,14:08:00,HP,chennai-pump-05,chennai,diesel,29.96,87.33,2616.41,Card,car,Yes,3,E-CHE-1
+TXN749,08-11-2025,18:37:00,IOCL,pune-pump-01,pune,diesel,8.4,87.21,732.56,Card,bike,No,4,E-PUN-4
+TXN750,30-10-2025,08:21:00,HP,delhi-pump-01,delhi,diesel,12.87,87.7,1128.7,UPI,bike,Yes,5,E-DEL-2
+TXN751,13-05-2025,23:56:00,HP,chennai-pump-05,chennai,petrol,26.85,94.68,2542.16,UPI,car,Yes,4,E-CHE-1
+TXN752,27-09-2024,11:05:00,IOCL,delhi-pump-04,delhi,diesel,28.94,87.24,2524.73,Cash,car,Yes,2,E-DEL-4
+TXN753,30-05-2025,05:15:00,IOCL,pune-pump-01,pune,petrol,26.64,94.56,2519.08,UPI,car,Yes,5,E-PUN-3
+TXN754,22-06-2024,23:11:00,BPCL,pune-pump-06,pune,power petrol,7.39,99.14,732.64,UPI,bike,No,5,E-PUN-2
+TXN755,09-12-2025,07:31:00,HP,delhi-pump-01,delhi,diesel,7.26,87.8,637.43,UPI,bike,No,3,E-DEL-2
+TXN756,25-07-2024,01:33:00,BPCL,pune-pump-06,pune,diesel,6.69,87.7,586.71,Card,bike,No,3,E-PUN-5
+TXN757,08-01-2024,18:28:00,HP,bangalore-pump-07,bangalore,petrol,5.22,94.47,493.13,Cash,bike,Yes,3,E-BAN-4
+TXN758,13-05-2024,05:44:00,HP,bangalore-pump-07,bangalore,power petrol,14.65,99.24,1453.87,UPI,bike,Yes,5,E-BAN-3
+TXN759,29-07-2024,11:17:00,HP,delhi-pump-04,delhi,petrol,7.43,94.98,705.7,Card,bike,Yes,1,E-DEL-4
+TXN760,07-03-2025,06:40:00,BPCL,mumbai-pump-04,mumbai,diesel,14.36,87.67,1258.94,Card,bike,No,4,E-MUM-1
+TXN761,05-06-2024,22:39:00,BPCL,bangalore-pump-07,bangalore,diesel,44.26,88.05,3897.09,Cash,car,Yes,3,E-BAN-3
+TXN762,23-03-2025,09:00:00,BPCL,delhi-pump-01,delhi,petrol,8.06,94.91,764.97,Cash,bike,Yes,3,E-DEL-1
+TXN763,18-11-2025,13:11:00,BPCL,pune-pump-06,pune,diesel,12.84,87.55,1124.14,UPI,bike,Yes,2,E-PUN-3
+TXN764,03-10-2025,00:38:00,HP,pune-pump-01,pune,power petrol,18.76,99.51,1866.81,Card,car,Yes,3,E-PUN-1
+TXN765,16-07-2025,06:40:00,IOCL,pune-pump-01,pune,power petrol,39.15,99.44,3893.08,Card,car,No,5,E-PUN-1
+TXN766,29-12-2025,22:54:00,BPCL,pune-pump-06,pune,power petrol,11.39,99.66,1135.13,UPI,bike,Yes,5,E-PUN-3
+TXN767,09-11-2025,22:22:00,BPCL,mumbai-pump-02,mumbai,diesel,23.41,87.55,2049.55,Cash,car,Yes,1,E-MUM-4
+TXN768,16-09-2024,11:25:00,HP,pune-pump-01,pune,power petrol,49.5,99.07,4903.96,Card,car,No,2,E-PUN-2
+TXN769,07-05-2025,02:31:00,IOCL,delhi-pump-01,delhi,diesel,22.3,87.66,1954.82,UPI,car,Yes,1,E-DEL-3
+TXN770,15-05-2024,19:35:00,IOCL,mumbai-pump-04,mumbai,petrol,47.39,94.62,4484.04,Cash,car,Yes,1,E-MUM-3
+TXN771,03-09-2024,10:59:00,BPCL,bangalore-pump-07,bangalore,petrol,38.58,94.47,3644.65,Card,car,Yes,2,E-BAN-1
+TXN772,28-03-2025,13:21:00,HP,bangalore-pump-07,bangalore,petrol,14.39,94.33,1357.41,Card,bike,Yes,1,E-BAN-2
+TXN773,14-09-2024,03:42:00,BPCL,delhi-pump-04,delhi,power petrol,45.62,99.81,4553.33,Cash,car,No,4,E-DEL-1
+TXN774,17-01-2024,08:42:00,BPCL,chennai-pump-03,chennai,diesel,9.11,87.83,800.13,UPI,bike,Yes,5,E-CHE-1
+TXN775,11-01-2024,12:04:00,HP,delhi-pump-01,delhi,power petrol,27.97,99.25,2776.02,Cash,car,No,3,E-DEL-4
+TXN776,29-12-2025,19:28:00,BPCL,pune-pump-06,pune,power petrol,48.02,99.92,4798.16,Cash,car,No,3,E-PUN-5
+TXN777,26-06-2025,23:58:00,BPCL,mumbai-pump-02,mumbai,petrol,9.85,94.58,931.61,UPI,bike,Yes,5,E-MUM-1
+TXN778,07-06-2024,08:15:00,IOCL,chennai-pump-05,chennai,diesel,7.28,88.07,641.15,Cash,bike,No,3,E-CHE-4
+TXN779,26-01-2024,12:36:00,BPCL,delhi-pump-01,delhi,petrol,6.75,94.54,638.15,Card,bike,No,1,E-DEL-3
+TXN780,30-06-2024,15:26:00,HP,mumbai-pump-04,mumbai,power petrol,34.32,99.29,3407.63,Cash,car,No,5,E-MUM-5
+TXN781,17-10-2025,15:12:00,BPCL,pune-pump-01,pune,power petrol,15.6,99.35,1549.86,UPI,car,No,4,E-PUN-3
+TXN782,15-05-2024,08:06:00,HP,bangalore-pump-07,bangalore,power petrol,40.68,99.69,4055.39,Card,car,Yes,5,E-BAN-2
+TXN783,28-08-2025,06:49:00,HP,chennai-pump-05,chennai,diesel,35.61,87.32,3109.47,UPI,car,No,2,E-CHE-5
+TXN784,16-06-2025,07:03:00,IOCL,pune-pump-06,pune,petrol,30.54,94.48,2885.42,Card,car,Yes,3,E-PUN-5
+TXN785,23-02-2025,22:15:00,IOCL,chennai-pump-05,chennai,petrol,8.13,94.96,772.02,Card,bike,Yes,1,E-CHE-3
+TXN786,01-01-2025,08:09:00,IOCL,delhi-pump-04,delhi,power petrol,45.8,99.17,4541.99,Cash,car,Yes,4,E-DEL-4
+TXN787,23-03-2024,14:07:00,BPCL,delhi-pump-01,delhi,power petrol,9.44,99.06,935.13,Card,bike,Yes,5,E-DEL-4
+TXN788,18-03-2024,20:20:00,BPCL,pune-pump-01,pune,diesel,6.45,87.12,561.92,UPI,bike,Yes,4,E-PUN-1
+TXN789,30-11-2024,19:23:00,IOCL,mumbai-pump-02,mumbai,petrol,17.79,94.33,1678.13,Card,car,Yes,1,E-MUM-3
+TXN790,19-01-2025,19:04:00,BPCL,chennai-pump-03,chennai,power petrol,7.17,99.26,711.69,Card,bike,Yes,2,E-CHE-2
+TXN791,24-05-2025,19:28:00,HP,pune-pump-06,pune,diesel,39.29,87.35,3431.98,UPI,car,Yes,2,E-PUN-1
+TXN792,12-12-2025,07:03:00,BPCL,chennai-pump-05,chennai,petrol,13.18,94.47,1245.11,UPI,bike,Yes,4,E-CHE-5
+TXN793,15-11-2025,23:36:00,HP,chennai-pump-05,chennai,diesel,37.13,87.13,3235.14,UPI,car,Yes,3,E-CHE-2
+TXN794,22-01-2025,04:09:00,IOCL,pune-pump-01,pune,power petrol,19.79,99.22,1963.56,Card,car,No,1,E-PUN-5
+TXN795,17-06-2024,13:57:00,BPCL,mumbai-pump-02,mumbai,petrol,31.74,95.21,3021.97,Card,car,No,2,E-MUM-1
+TXN796,11-01-2025,17:16:00,BPCL,delhi-pump-01,delhi,power petrol,31.95,99.47,3178.07,Cash,car,No,5,E-DEL-4
+TXN797,26-12-2024,12:48:00,BPCL,mumbai-pump-02,mumbai,petrol,20.75,95.18,1974.99,Cash,car,No,5,E-MUM-2
+TXN798,22-04-2025,04:11:00,IOCL,delhi-pump-04,delhi,power petrol,23.9,98.98,2365.62,Cash,car,Yes,4,E-DEL-5
+TXN799,04-08-2024,02:25:00,HP,bangalore-pump-07,bangalore,power petrol,5.11,99.46,508.24,UPI,bike,Yes,3,E-BAN-4
+TXN800,20-01-2025,00:42:00,HP,pune-pump-06,pune,diesel,49.36,87.78,4332.82,Card,car,Yes,2,E-PUN-4
+TXN801,21-03-2024,02:05:00,HP,delhi-pump-01,delhi,petrol,44.97,94.87,4266.3,UPI,car,Yes,2,E-DEL-2
+TXN802,19-12-2025,12:59:00,BPCL,mumbai-pump-02,mumbai,diesel,47.49,87.79,4169.15,Cash,car,Yes,2,E-MUM-4
+TXN803,30-11-2025,19:56:00,BPCL,chennai-pump-05,chennai,petrol,9.69,94.31,913.86,Card,bike,No,2,E-CHE-1
+TXN804,07-12-2025,19:59:00,BPCL,bangalore-pump-07,bangalore,petrol,45.97,94.25,4332.67,UPI,car,Yes,4,E-BAN-5
+TXN805,19-07-2024,21:43:00,HP,bangalore-pump-07,bangalore,power petrol,8.52,99.19,845.1,Card,bike,Yes,3,E-BAN-2
+TXN806,22-11-2025,20:44:00,IOCL,chennai-pump-05,chennai,diesel,20.65,87.77,1812.45,Card,car,No,5,E-CHE-1
+TXN807,18-05-2024,11:55:00,HP,delhi-pump-01,delhi,power petrol,16.75,99.75,1670.81,Card,car,No,5,E-DEL-3
+TXN808,25-04-2024,18:32:00,IOCL,chennai-pump-03,chennai,power petrol,9.26,99.49,921.28,UPI,bike,No,2,E-CHE-1
+TXN809,01-01-2024,12:36:00,BPCL,chennai-pump-03,chennai,petrol,7.59,94.93,720.52,Card,bike,Yes,2,E-CHE-4
+TXN810,16-10-2024,05:13:00,HP,chennai-pump-03,chennai,diesel,27.08,87.38,2366.25,Card,car,No,3,E-CHE-2
+TXN811,09-09-2024,21:47:00,HP,pune-pump-06,pune,diesel,42.96,87.14,3743.53,Cash,car,No,2,E-PUN-4
+TXN812,25-09-2024,02:55:00,BPCL,bangalore-pump-07,bangalore,petrol,17.42,94.9,1653.16,Card,car,No,3,E-BAN-4
+TXN813,09-03-2024,08:36:00,HP,delhi-pump-01,delhi,power petrol,22.45,99.12,2225.24,Card,car,No,3,E-DEL-2
+TXN814,20-10-2024,18:51:00,HP,mumbai-pump-02,mumbai,power petrol,34.22,99.91,3418.92,Cash,car,No,2,E-MUM-1
+TXN815,06-12-2025,11:57:00,HP,pune-pump-01,pune,petrol,5.32,94.33,501.84,Cash,bike,No,4,E-PUN-1
+TXN816,19-03-2024,20:01:00,IOCL,bangalore-pump-07,bangalore,power petrol,12.74,99.41,1266.48,Cash,bike,No,4,E-BAN-5
+TXN817,08-04-2024,00:44:00,HP,chennai-pump-05,chennai,diesel,10.2,87.56,893.11,UPI,bike,Yes,5,E-CHE-5
+TXN818,23-12-2025,18:25:00,BPCL,pune-pump-01,pune,diesel,30.64,87.81,2690.5,Cash,car,No,5,E-PUN-2
+TXN819,25-07-2025,05:13:00,HP,delhi-pump-04,delhi,power petrol,9.38,99.91,937.16,UPI,bike,No,5,E-DEL-5
+TXN820,13-10-2025,08:19:00,HP,pune-pump-01,pune,diesel,7.16,87.16,624.07,Card,bike,No,4,E-PUN-2
+TXN821,05-07-2025,17:00:00,BPCL,mumbai-pump-04,mumbai,petrol,26.59,94.66,2517.01,Card,car,No,1,E-MUM-3
+TXN822,18-01-2024,23:05:00,BPCL,chennai-pump-05,chennai,petrol,10.55,94.66,998.66,UPI,bike,Yes,2,E-CHE-3
+TXN823,20-03-2024,23:46:00,IOCL,bangalore-pump-07,bangalore,petrol,25.07,94.25,2362.85,Card,car,No,4,E-BAN-4
+TXN824,25-03-2024,08:29:00,HP,mumbai-pump-04,mumbai,diesel,8.06,87.96,708.96,UPI,bike,No,5,E-MUM-5
+TXN825,21-05-2025,15:42:00,HP,delhi-pump-01,delhi,petrol,14.63,94.53,1382.97,Card,bike,No,3,E-DEL-2
+TXN826,19-07-2025,12:57:00,IOCL,delhi-pump-01,delhi,diesel,17.96,88.07,1581.74,Cash,car,Yes,4,E-DEL-1
+TXN827,19-02-2024,13:04:00,HP,delhi-pump-01,delhi,petrol,5.13,95.17,488.22,Cash,bike,Yes,2,E-DEL-1
+TXN828,15-07-2024,17:35:00,HP,pune-pump-06,pune,petrol,8.5,94.8,805.8,UPI,bike,Yes,4,E-PUN-1
+TXN829,13-11-2024,02:16:00,IOCL,pune-pump-06,pune,petrol,14.86,94.34,1401.89,UPI,bike,Yes,5,E-PUN-1
+TXN830,24-01-2025,23:30:00,BPCL,pune-pump-01,pune,petrol,46.92,94.3,4424.56,UPI,car,No,4,E-PUN-1
+TXN831,21-06-2025,08:46:00,HP,pune-pump-06,pune,petrol,24.85,95.14,2364.23,Cash,car,No,5,E-PUN-3
+TXN832,06-05-2025,04:37:00,HP,delhi-pump-04,delhi,diesel,17.08,87.54,1495.18,Cash,car,No,5,E-DEL-2
+TXN833,06-07-2025,10:16:00,BPCL,mumbai-pump-02,mumbai,diesel,34.29,87.67,3006.2,UPI,car,Yes,2,E-MUM-3
+TXN834,29-06-2024,09:13:00,BPCL,delhi-pump-01,delhi,diesel,9.15,87.24,798.25,Cash,bike,Yes,3,E-DEL-1
+TXN835,13-09-2025,03:08:00,BPCL,bangalore-pump-07,bangalore,power petrol,40.95,99.12,4058.96,UPI,car,Yes,1,E-BAN-1
+TXN836,14-07-2025,07:51:00,BPCL,mumbai-pump-04,mumbai,diesel,8.28,87.37,723.42,UPI,bike,No,4,E-MUM-4
+TXN837,19-02-2025,17:43:00,IOCL,pune-pump-06,pune,power petrol,13.98,99.17,1386.4,Cash,bike,No,5,E-PUN-5
+TXN838,12-02-2025,14:54:00,HP,bangalore-pump-07,bangalore,diesel,32.65,87.82,2867.32,Card,car,Yes,1,E-BAN-5
+TXN839,16-05-2024,08:50:00,BPCL,delhi-pump-01,delhi,petrol,13.9,94.43,1312.58,Cash,bike,No,2,E-DEL-1
+TXN840,19-09-2025,10:58:00,IOCL,chennai-pump-05,chennai,diesel,13.67,87.69,1198.72,UPI,bike,Yes,4,E-CHE-1
+TXN841,05-06-2024,06:41:00,BPCL,delhi-pump-01,delhi,petrol,10.93,94.81,1036.27,Card,bike,Yes,5,E-DEL-4
+TXN842,17-10-2025,09:21:00,IOCL,pune-pump-01,pune,diesel,11.12,87.5,973,Cash,bike,Yes,5,E-PUN-4
+TXN843,09-04-2024,17:43:00,IOCL,mumbai-pump-04,mumbai,diesel,9.5,87.68,832.96,UPI,bike,Yes,1,E-MUM-5
+TXN844,17-05-2024,17:58:00,IOCL,chennai-pump-03,chennai,diesel,10.66,87.25,930.09,Card,bike,No,4,E-CHE-3
+TXN845,03-11-2025,12:01:00,BPCL,delhi-pump-01,delhi,diesel,46.32,87.77,4065.51,Card,car,Yes,2,E-DEL-3
+TXN846,02-09-2025,08:14:00,IOCL,bangalore-pump-07,bangalore,diesel,9.05,88,796.4,UPI,bike,Yes,3,E-BAN-2
+TXN847,17-02-2025,23:47:00,BPCL,chennai-pump-03,chennai,diesel,45.32,87.29,3955.98,UPI,car,Yes,1,E-CHE-3
+TXN848,30-03-2025,01:10:00,HP,pune-pump-01,pune,petrol,12.56,94.93,1192.32,UPI,bike,Yes,2,E-PUN-5
+TXN849,25-10-2024,18:49:00,HP,pune-pump-01,pune,diesel,13.04,87.6,1142.3,Card,bike,Yes,2,E-PUN-1
+TXN850,31-05-2025,08:51:00,HP,mumbai-pump-04,mumbai,diesel,11.68,87.66,1023.87,Cash,bike,Yes,3,E-MUM-5
+TXN851,30-06-2025,07:06:00,IOCL,chennai-pump-05,chennai,power petrol,40.94,99.47,4072.3,UPI,car,No,1,E-CHE-4
+TXN852,28-10-2025,19:39:00,HP,bangalore-pump-07,bangalore,diesel,43.12,87.16,3758.34,UPI,car,No,1,E-BAN-5
+TXN853,01-12-2025,00:49:00,HP,mumbai-pump-02,mumbai,power petrol,34.28,99.86,3423.2,Card,car,No,3,E-MUM-5
+TXN854,14-07-2024,16:31:00,HP,mumbai-pump-02,mumbai,diesel,19.81,87.67,1736.74,UPI,car,Yes,1,E-MUM-1
+TXN855,07-01-2025,11:31:00,IOCL,mumbai-pump-04,mumbai,petrol,6.06,94.95,575.4,UPI,bike,No,5,E-MUM-1
+TXN856,04-10-2025,22:09:00,HP,delhi-pump-04,delhi,diesel,10.84,87.69,950.56,Cash,bike,Yes,3,E-DEL-2
+TXN857,06-08-2025,22:52:00,HP,delhi-pump-04,delhi,power petrol,17.43,99.73,1738.29,Card,car,No,4,E-DEL-4
+TXN858,31-07-2025,02:48:00,HP,delhi-pump-01,delhi,power petrol,7.79,99.72,776.82,UPI,bike,No,4,E-DEL-1
+TXN859,24-05-2025,16:09:00,IOCL,bangalore-pump-07,bangalore,power petrol,42.29,99.44,4205.32,Cash,car,Yes,1,E-BAN-3
+TXN860,24-08-2025,17:11:00,IOCL,delhi-pump-04,delhi,diesel,10.42,87.38,910.5,UPI,bike,Yes,4,E-DEL-2
+TXN861,27-09-2025,07:01:00,IOCL,delhi-pump-01,delhi,power petrol,11.91,99.09,1180.16,UPI,bike,Yes,3,E-DEL-2
+TXN862,22-05-2025,09:03:00,HP,bangalore-pump-07,bangalore,diesel,9.95,87.48,870.43,UPI,bike,No,1,E-BAN-3
+TXN863,19-10-2024,19:50:00,BPCL,pune-pump-01,pune,petrol,21.11,94.44,1993.63,UPI,car,No,5,E-PUN-3
+TXN864,21-11-2025,03:15:00,HP,delhi-pump-01,delhi,petrol,5.71,94.39,538.97,UPI,bike,No,3,E-DEL-5
+TXN865,11-04-2024,08:33:00,BPCL,delhi-pump-01,delhi,diesel,10.95,88.04,964.04,Card,bike,Yes,1,E-DEL-2
+TXN866,15-01-2024,00:53:00,IOCL,pune-pump-01,pune,power petrol,12.32,99.27,1223.01,Cash,bike,Yes,5,E-PUN-2
+TXN867,04-10-2024,22:30:00,IOCL,chennai-pump-05,chennai,petrol,9.91,94.36,935.11,Cash,bike,Yes,4,E-CHE-4
+TXN868,17-01-2025,13:42:00,HP,delhi-pump-04,delhi,diesel,11.94,88.04,1051.2,Card,bike,No,1,E-DEL-1
+TXN869,08-05-2025,10:00:00,BPCL,chennai-pump-03,chennai,diesel,30.61,87.99,2693.37,Cash,car,No,3,E-CHE-4
+TXN870,29-06-2025,22:31:00,HP,bangalore-pump-07,bangalore,diesel,17.15,87.64,1503.03,UPI,car,Yes,2,E-BAN-3
+TXN871,24-08-2025,20:36:00,HP,mumbai-pump-02,mumbai,diesel,20.87,87.98,1836.14,Card,car,No,2,E-MUM-2
+TXN872,22-09-2024,13:04:00,BPCL,pune-pump-01,pune,power petrol,22.85,99.13,2265.12,UPI,car,No,4,E-PUN-1
+TXN873,23-05-2024,06:22:00,BPCL,chennai-pump-03,chennai,power petrol,18.38,99.26,1824.4,Cash,car,Yes,3,E-CHE-3
+TXN874,04-07-2024,17:12:00,BPCL,chennai-pump-03,chennai,diesel,39.47,87.73,3462.7,Cash,car,Yes,4,E-CHE-5
+TXN875,02-10-2024,10:34:00,BPCL,delhi-pump-01,delhi,diesel,7.84,87.54,686.31,UPI,bike,Yes,2,E-DEL-5
+TXN876,23-10-2025,10:39:00,BPCL,mumbai-pump-04,mumbai,petrol,17.22,94.36,1624.88,UPI,car,No,5,E-MUM-1
+TXN877,22-10-2024,13:05:00,HP,delhi-pump-01,delhi,power petrol,22.12,99.62,2203.59,Card,car,No,3,E-DEL-5
+TXN878,30-09-2025,16:25:00,HP,chennai-pump-05,chennai,power petrol,20.69,99.79,2064.66,Cash,car,Yes,5,E-CHE-3
+TXN879,02-09-2024,18:31:00,HP,chennai-pump-05,chennai,petrol,26.28,94.64,2487.14,Card,car,Yes,1,E-CHE-5
+TXN880,30-10-2025,08:04:00,HP,mumbai-pump-04,mumbai,power petrol,10.98,99.8,1095.8,Card,bike,No,2,E-MUM-4
+TXN881,27-08-2025,12:40:00,IOCL,bangalore-pump-07,bangalore,petrol,29.8,94.57,2818.19,UPI,car,No,2,E-BAN-2
+TXN882,15-01-2025,12:57:00,BPCL,mumbai-pump-02,mumbai,power petrol,35.05,99.54,3488.88,Cash,car,Yes,1,E-MUM-4
+TXN883,28-10-2024,19:03:00,IOCL,mumbai-pump-04,mumbai,diesel,20.86,87.76,1830.67,Card,car,No,2,E-MUM-1
+TXN884,16-06-2025,16:44:00,IOCL,delhi-pump-04,delhi,power petrol,9.29,99.89,927.98,UPI,bike,No,3,E-DEL-5
+TXN885,16-10-2024,18:58:00,BPCL,delhi-pump-04,delhi,diesel,21.51,87.53,1882.77,Cash,car,No,5,E-DEL-3
+TXN886,13-09-2024,21:14:00,IOCL,delhi-pump-04,delhi,power petrol,8.67,99.33,861.19,Cash,bike,Yes,4,E-DEL-3
+TXN887,28-08-2025,11:37:00,HP,delhi-pump-01,delhi,diesel,7.19,87.36,628.12,Cash,bike,Yes,1,E-DEL-5
+TXN888,25-08-2024,03:05:00,BPCL,delhi-pump-01,delhi,petrol,8.92,94.29,841.07,Card,bike,No,5,E-DEL-5
+TXN889,06-06-2024,15:20:00,HP,pune-pump-06,pune,power petrol,36.66,99.46,3646.2,UPI,car,No,5,E-PUN-5
+TXN890,30-10-2024,06:37:00,HP,bangalore-pump-07,bangalore,diesel,22.21,87.15,1935.6,UPI,car,No,1,E-BAN-4
+TXN891,09-03-2024,06:45:00,IOCL,pune-pump-06,pune,petrol,6.63,94.64,627.46,UPI,bike,Yes,1,E-PUN-5
+TXN892,24-03-2024,02:39:00,HP,mumbai-pump-02,mumbai,petrol,25.91,94.59,2450.83,UPI,car,No,1,E-MUM-4
+TXN893,05-08-2025,06:37:00,BPCL,pune-pump-06,pune,power petrol,12.7,99.09,1258.44,UPI,bike,Yes,4,E-PUN-5
+TXN894,24-03-2024,03:50:00,HP,mumbai-pump-04,mumbai,petrol,6.05,94.43,571.3,UPI,bike,No,3,E-MUM-5
+TXN895,06-01-2024,09:23:00,IOCL,delhi-pump-01,delhi,power petrol,43.17,99.17,4281.17,UPI,car,No,3,E-DEL-5
+TXN896,06-12-2025,20:09:00,IOCL,bangalore-pump-07,bangalore,petrol,8.95,94.34,844.34,UPI,bike,No,5,E-BAN-3
+TXN897,22-04-2024,03:08:00,HP,pune-pump-01,pune,power petrol,9.77,99.55,972.6,Card,bike,Yes,3,E-PUN-2
+TXN898,25-07-2024,06:46:00,IOCL,delhi-pump-04,delhi,power petrol,9.5,99.74,947.53,UPI,bike,Yes,4,E-DEL-2
+TXN899,01-10-2024,02:19:00,IOCL,delhi-pump-04,delhi,petrol,16.27,95.22,1549.23,Card,car,No,4,E-DEL-3
+TXN900,05-05-2024,23:19:00,HP,pune-pump-06,pune,diesel,9.23,87.55,808.09,UPI,bike,No,5,E-PUN-2
+TXN901,28-08-2024,04:56:00,IOCL,delhi-pump-01,delhi,petrol,27.91,94.64,2641.4,Cash,car,Yes,4,E-DEL-3
+TXN902,07-11-2024,14:56:00,IOCL,chennai-pump-03,chennai,power petrol,33.62,99.63,3349.56,UPI,car,No,5,E-CHE-5
+TXN903,04-01-2025,18:53:00,BPCL,bangalore-pump-07,bangalore,diesel,14.65,87.5,1281.88,Card,bike,Yes,5,E-BAN-5
+TXN904,19-01-2024,20:35:00,BPCL,delhi-pump-01,delhi,diesel,31.92,87.83,2803.53,UPI,car,No,4,E-DEL-5
+TXN905,05-10-2025,12:00:00,IOCL,pune-pump-06,pune,petrol,40.37,94.96,3833.54,Cash,car,No,3,E-PUN-3
+TXN906,08-11-2024,16:00:00,BPCL,chennai-pump-03,chennai,diesel,29.42,87.31,2568.66,UPI,car,Yes,3,E-CHE-3
+TXN907,07-11-2024,22:37:00,HP,bangalore-pump-07,bangalore,power petrol,33.49,99.71,3339.29,UPI,car,Yes,2,E-BAN-2
+TXN908,20-08-2025,12:19:00,HP,chennai-pump-03,chennai,diesel,30.19,87.48,2641.02,Cash,car,Yes,5,E-CHE-1
+TXN909,14-05-2025,03:34:00,HP,chennai-pump-05,chennai,petrol,7.44,95.05,707.17,UPI,bike,No,3,E-CHE-1
+TXN910,25-10-2025,06:50:00,HP,chennai-pump-03,chennai,petrol,6.26,94.72,592.95,UPI,bike,Yes,3,E-CHE-5
+TXN911,09-08-2025,20:17:00,BPCL,chennai-pump-05,chennai,diesel,41.82,87.53,3660.5,Card,car,No,3,E-CHE-1
+TXN912,06-11-2025,09:04:00,HP,delhi-pump-04,delhi,power petrol,6.31,99.46,627.59,UPI,bike,No,4,E-DEL-5
+TXN913,03-11-2024,13:12:00,IOCL,pune-pump-06,pune,diesel,6.62,88.1,583.22,UPI,bike,No,5,E-PUN-1
+TXN914,12-03-2025,15:35:00,BPCL,chennai-pump-03,chennai,power petrol,5.97,99.69,595.15,Cash,bike,Yes,4,E-CHE-1
+TXN915,03-12-2024,22:23:00,HP,chennai-pump-05,chennai,petrol,5.77,94.38,544.57,UPI,bike,No,4,E-CHE-4
+TXN916,03-01-2024,17:42:00,HP,mumbai-pump-02,mumbai,power petrol,21.38,99.26,2122.18,UPI,car,No,1,E-MUM-3
+TXN917,30-01-2025,03:43:00,IOCL,mumbai-pump-02,mumbai,power petrol,46.53,99.24,4617.64,Card,car,No,4,E-MUM-3
+TXN918,21-04-2025,14:37:00,IOCL,delhi-pump-01,delhi,power petrol,5.29,99.66,527.2,UPI,bike,Yes,5,E-DEL-3
+TXN919,04-03-2025,11:50:00,IOCL,chennai-pump-05,chennai,diesel,14.54,87.72,1275.45,UPI,bike,No,5,E-CHE-2
+TXN920,31-08-2024,18:19:00,BPCL,mumbai-pump-04,mumbai,diesel,6.07,87.63,531.91,Cash,bike,No,1,E-MUM-4
+TXN921,24-09-2024,05:41:00,HP,chennai-pump-05,chennai,diesel,12.99,87.98,1142.86,Card,bike,Yes,1,E-CHE-4
+TXN922,22-01-2024,03:11:00,BPCL,pune-pump-01,pune,petrol,13.79,94.26,1299.85,Card,bike,No,2,E-PUN-5
+TXN923,09-06-2025,13:25:00,IOCL,chennai-pump-05,chennai,diesel,16.79,87.83,1474.67,Cash,car,Yes,4,E-CHE-4
+TXN924,08-09-2024,06:05:00,BPCL,delhi-pump-04,delhi,diesel,19.97,87.97,1756.76,Cash,car,No,5,E-DEL-4
+TXN925,11-02-2025,23:56:00,BPCL,chennai-pump-05,chennai,petrol,29.83,94.84,2829.08,Cash,car,Yes,1,E-CHE-2
+TXN926,16-02-2024,07:12:00,IOCL,pune-pump-06,pune,petrol,11.4,95.12,1084.37,UPI,bike,No,1,E-PUN-1
+TXN927,07-09-2025,18:09:00,IOCL,bangalore-pump-07,bangalore,petrol,40.17,94.26,3786.42,UPI,car,No,3,E-BAN-5
+TXN928,15-12-2025,12:02:00,BPCL,mumbai-pump-04,mumbai,power petrol,10.66,99.79,1063.76,Card,bike,Yes,2,E-MUM-3
+TXN929,08-05-2025,22:50:00,BPCL,delhi-pump-04,delhi,petrol,11.43,94.73,1082.76,Card,bike,Yes,2,E-DEL-1
+TXN930,26-01-2024,19:36:00,BPCL,delhi-pump-04,delhi,power petrol,26.91,99.74,2684,Cash,car,Yes,5,E-DEL-2
+TXN931,05-09-2025,21:13:00,BPCL,bangalore-pump-07,bangalore,power petrol,34.97,99.41,3476.37,Cash,car,Yes,5,E-BAN-4
+TXN932,10-10-2024,07:33:00,HP,pune-pump-06,pune,diesel,10.49,87.57,918.61,Cash,bike,No,2,E-PUN-5
+TXN933,16-08-2025,05:31:00,HP,pune-pump-06,pune,petrol,27.43,95.15,2609.96,UPI,car,No,5,E-PUN-4
+TXN934,23-07-2024,23:44:00,BPCL,delhi-pump-04,delhi,diesel,8.68,87.47,759.24,UPI,bike,No,2,E-DEL-5
+TXN935,15-01-2024,21:22:00,HP,chennai-pump-03,chennai,diesel,45.07,87.41,3939.57,Card,car,Yes,4,E-CHE-2
+TXN936,07-09-2025,20:56:00,BPCL,mumbai-pump-04,mumbai,diesel,27.51,87.31,2401.9,UPI,car,Yes,2,E-MUM-3
+TXN937,21-06-2024,21:30:00,IOCL,delhi-pump-01,delhi,petrol,45.65,95,4336.75,Card,car,No,5,E-DEL-1
+TXN938,09-01-2025,00:42:00,BPCL,delhi-pump-04,delhi,diesel,12.25,87.68,1074.08,Cash,bike,Yes,1,E-DEL-5
+TXN939,12-01-2024,03:48:00,BPCL,mumbai-pump-04,mumbai,power petrol,36.24,99.76,3615.3,Card,car,Yes,4,E-MUM-1
+TXN940,30-07-2024,09:37:00,IOCL,mumbai-pump-02,mumbai,diesel,5.46,87.2,476.11,Cash,bike,No,5,E-MUM-5
+TXN941,09-02-2024,08:39:00,HP,bangalore-pump-07,bangalore,petrol,34.67,94.98,3292.96,Cash,car,Yes,2,E-BAN-1
+TXN942,30-09-2024,12:45:00,BPCL,mumbai-pump-02,mumbai,petrol,5.6,94.41,528.7,UPI,bike,No,1,E-MUM-5
+TXN943,20-04-2025,04:27:00,IOCL,delhi-pump-01,delhi,petrol,14.36,94.39,1355.44,Card,bike,Yes,4,E-DEL-3
+TXN944,25-03-2025,02:56:00,IOCL,bangalore-pump-07,bangalore,power petrol,42.34,99.37,4207.33,Card,car,No,2,E-BAN-4
+TXN945,01-05-2025,12:17:00,HP,chennai-pump-03,chennai,petrol,24.69,94.85,2341.85,UPI,car,No,4,E-CHE-4
+TXN946,02-06-2024,04:12:00,BPCL,pune-pump-06,pune,power petrol,9.19,99.02,909.99,Cash,bike,No,2,E-PUN-5
+TXN947,28-09-2025,21:03:00,IOCL,chennai-pump-05,chennai,diesel,12.27,87.59,1074.73,Card,bike,Yes,2,E-CHE-5
+TXN948,06-07-2024,20:19:00,BPCL,chennai-pump-05,chennai,power petrol,39.46,99.38,3921.53,Card,car,Yes,1,E-CHE-3
+TXN949,04-09-2025,14:59:00,HP,mumbai-pump-02,mumbai,diesel,9.78,87.37,854.48,Card,bike,No,1,E-MUM-2
+TXN950,05-11-2024,05:54:00,HP,chennai-pump-03,chennai,petrol,34.09,94.7,3228.32,Card,car,Yes,3,E-CHE-3
+TXN951,23-04-2024,07:18:00,HP,mumbai-pump-04,mumbai,diesel,12.58,87.89,1105.66,Card,bike,No,5,E-MUM-5
+TXN952,05-12-2024,13:39:00,HP,bangalore-pump-07,bangalore,petrol,28.77,95,2733.15,UPI,car,No,2,E-BAN-5
+TXN953,06-07-2024,02:56:00,IOCL,delhi-pump-04,delhi,power petrol,30.7,99.43,3052.5,UPI,car,No,3,E-DEL-3
+TXN954,18-06-2025,06:41:00,IOCL,chennai-pump-05,chennai,petrol,17.76,94.6,1680.1,UPI,car,No,4,E-CHE-5
+TXN955,28-06-2025,17:21:00,IOCL,pune-pump-06,pune,petrol,40.7,95.11,3870.98,Card,car,Yes,2,E-PUN-1
+TXN956,23-10-2025,00:34:00,BPCL,mumbai-pump-04,mumbai,power petrol,19.89,99.09,1970.9,Card,car,No,4,E-MUM-4
+TXN957,25-12-2025,09:18:00,HP,delhi-pump-01,delhi,petrol,31.48,94.74,2982.42,Cash,car,No,3,E-DEL-4
+TXN958,31-07-2025,19:50:00,BPCL,chennai-pump-05,chennai,diesel,26.58,87.84,2334.79,Cash,car,Yes,5,E-CHE-3
+TXN959,12-02-2025,15:54:00,IOCL,pune-pump-01,pune,diesel,8.49,88.04,747.46,Cash,bike,Yes,3,E-PUN-2
+TXN960,18-10-2024,15:40:00,IOCL,delhi-pump-01,delhi,diesel,15.52,87.39,1356.29,UPI,car,No,4,E-DEL-2
+TXN961,27-08-2025,14:00:00,HP,pune-pump-01,pune,power petrol,12.69,99.55,1263.29,Card,bike,Yes,4,E-PUN-4
+TXN962,09-04-2024,07:21:00,BPCL,pune-pump-01,pune,diesel,8.32,87.36,726.84,UPI,bike,Yes,1,E-PUN-3
+TXN963,20-01-2025,11:59:00,HP,mumbai-pump-02,mumbai,petrol,12.32,94.37,1162.64,Cash,bike,Yes,4,E-MUM-2
+TXN964,15-03-2025,15:24:00,HP,mumbai-pump-02,mumbai,petrol,17.84,94.78,1690.88,Card,car,No,2,E-MUM-2
+TXN965,29-10-2025,13:51:00,IOCL,delhi-pump-04,delhi,power petrol,24.88,99.03,2463.87,Cash,car,No,2,E-DEL-1
+TXN966,18-10-2024,15:13:00,IOCL,bangalore-pump-07,bangalore,power petrol,11.37,99.1,1126.77,Cash,bike,Yes,3,E-BAN-4
+TXN967,12-01-2024,05:11:00,BPCL,chennai-pump-05,chennai,power petrol,9.02,98.96,892.62,Cash,bike,Yes,4,E-CHE-2
+TXN968,15-04-2024,10:32:00,HP,pune-pump-06,pune,diesel,41.99,87.54,3675.8,Cash,car,Yes,3,E-PUN-3
+TXN969,03-03-2025,05:59:00,HP,chennai-pump-05,chennai,petrol,24.6,94.53,2325.44,Card,car,Yes,4,E-CHE-5
+TXN970,19-04-2024,08:47:00,HP,mumbai-pump-02,mumbai,diesel,25.44,87.69,2230.83,Card,car,Yes,5,E-MUM-5
+TXN971,12-08-2024,21:25:00,BPCL,chennai-pump-05,chennai,power petrol,10.94,99.88,1092.69,UPI,bike,Yes,2,E-CHE-1
+TXN972,18-05-2024,18:16:00,IOCL,bangalore-pump-07,bangalore,power petrol,22.98,99.58,2288.35,UPI,car,Yes,4,E-BAN-5
+TXN973,10-07-2025,05:05:00,IOCL,mumbai-pump-04,mumbai,power petrol,26.37,99.59,2626.19,Card,car,Yes,3,E-MUM-5
+TXN974,22-04-2024,20:17:00,BPCL,bangalore-pump-07,bangalore,petrol,9.03,94.76,855.68,UPI,bike,Yes,1,E-BAN-4
+TXN975,28-03-2024,21:43:00,HP,bangalore-pump-07,bangalore,power petrol,49.44,99.41,4914.83,Card,car,No,4,E-BAN-2
+TXN976,02-08-2024,10:16:00,BPCL,chennai-pump-05,chennai,power petrol,41.95,99.46,4172.35,Card,car,No,5,E-CHE-1
+TXN977,10-01-2024,23:19:00,HP,mumbai-pump-04,mumbai,power petrol,44.25,99.86,4418.81,UPI,car,No,4,E-MUM-5
+TXN978,25-09-2025,20:34:00,HP,chennai-pump-03,chennai,petrol,29.46,94.56,2785.74,UPI,car,Yes,3,E-CHE-2
+TXN979,28-10-2025,13:23:00,HP,chennai-pump-03,chennai,power petrol,39.63,99.28,3934.47,Card,car,No,3,E-CHE-2
+TXN980,21-05-2024,12:51:00,BPCL,delhi-pump-04,delhi,power petrol,22.69,99.68,2261.74,UPI,car,No,5,E-DEL-5
+TXN981,02-09-2024,04:50:00,IOCL,bangalore-pump-07,bangalore,power petrol,6.7,99.87,669.13,Cash,bike,No,4,E-BAN-4
+TXN982,07-01-2024,18:30:00,HP,pune-pump-01,pune,petrol,10.74,94.54,1015.36,Cash,bike,Yes,4,E-PUN-5
+TXN983,25-03-2024,23:31:00,HP,delhi-pump-04,delhi,power petrol,31.34,99.76,3126.48,UPI,car,No,1,E-DEL-2
+TXN984,31-01-2024,07:27:00,HP,mumbai-pump-02,mumbai,petrol,10.31,94.46,973.88,Cash,bike,No,4,E-MUM-4
+TXN985,20-07-2025,17:25:00,HP,delhi-pump-01,delhi,petrol,32.05,94.64,3033.21,UPI,car,Yes,5,E-DEL-4
+TXN986,01-09-2024,13:30:00,IOCL,bangalore-pump-07,bangalore,diesel,48.72,88.08,4291.26,Card,car,No,3,E-BAN-5
+TXN987,09-12-2024,06:56:00,HP,pune-pump-06,pune,diesel,27.4,87.5,2397.5,Cash,car,Yes,4,E-PUN-5
+TXN988,18-01-2024,09:20:00,HP,pune-pump-06,pune,diesel,31.16,87.23,2718.09,UPI,car,No,4,E-PUN-3
+TXN989,21-07-2024,22:05:00,BPCL,bangalore-pump-07,bangalore,petrol,28.15,95.18,2679.32,UPI,car,No,5,E-BAN-3
+TXN990,24-10-2024,04:21:00,IOCL,delhi-pump-01,delhi,diesel,10.16,87.49,888.9,UPI,bike,Yes,3,E-DEL-4
+TXN991,05-03-2025,18:21:00,HP,pune-pump-01,pune,power petrol,7.2,99.03,713.02,UPI,bike,No,2,E-PUN-2
+TXN992,05-11-2025,16:59:00,IOCL,delhi-pump-01,delhi,power petrol,42.84,98.97,4239.87,UPI,car,No,5,E-DEL-4
+TXN993,09-03-2024,02:59:00,IOCL,mumbai-pump-04,mumbai,petrol,10.1,94.8,957.48,UPI,bike,Yes,3,E-MUM-1
+TXN994,29-01-2024,15:52:00,IOCL,pune-pump-01,pune,petrol,11.08,94.33,1045.18,UPI,bike,Yes,2,E-PUN-1
+TXN995,07-12-2025,23:50:00,HP,chennai-pump-05,chennai,petrol,9.62,95.07,914.57,Cash,bike,No,3,E-CHE-2
+TXN996,02-03-2025,13:45:00,BPCL,mumbai-pump-04,mumbai,power petrol,7.11,99.06,704.32,Cash,bike,No,1,E-MUM-5
+TXN997,30-12-2024,10:35:00,HP,delhi-pump-01,delhi,power petrol,22.27,99.92,2225.22,Card,car,No,1,E-DEL-5
+TXN998,08-06-2025,18:54:00,IOCL,mumbai-pump-02,mumbai,diesel,24.04,87.14,2094.85,Cash,car,Yes,3,E-MUM-2
+TXN999,11-02-2025,15:02:00,HP,mumbai-pump-02,mumbai,petrol,20.58,94.43,1943.37,Cash,car,No,2,E-MUM-5
+TXN1000,08-11-2024,13:12:00,HP,pune-pump-06,pune,power petrol,14.38,99.62,1432.54,Card,bike,Yes,5,E-PUN-5
+TXN1001,28-12-2024,03:19:00,IOCL,mumbai-pump-04,mumbai,petrol,30.29,94.66,2867.25,UPI,car,Yes,1,E-MUM-1
+TXN1002,04-06-2024,19:18:00,IOCL,mumbai-pump-04,mumbai,diesel,31.11,87.4,2719.01,Card,car,Yes,5,E-MUM-1
+TXN1003,13-06-2024,19:45:00,BPCL,pune-pump-01,pune,petrol,39.06,95.2,3718.51,UPI,car,No,2,E-PUN-3
+TXN1004,09-03-2025,05:07:00,HP,bangalore-pump-07,bangalore,diesel,46.28,87.76,4061.53,UPI,car,Yes,3,E-BAN-4
+TXN1005,13-12-2024,14:58:00,BPCL,chennai-pump-05,chennai,diesel,17.54,87.62,1536.85,UPI,car,No,2,E-CHE-3
+TXN1006,15-12-2025,09:26:00,IOCL,mumbai-pump-02,mumbai,petrol,5.7,95.02,541.61,UPI,bike,No,1,E-MUM-4
+TXN1007,26-09-2024,06:06:00,BPCL,pune-pump-06,pune,diesel,19.15,87.32,1672.18,Card,car,No,1,E-PUN-5
+TXN1008,02-04-2025,10:32:00,IOCL,mumbai-pump-02,mumbai,petrol,7.95,95,755.25,Cash,bike,No,2,E-MUM-3
+TXN1009,03-07-2024,17:55:00,HP,mumbai-pump-04,mumbai,power petrol,31.09,99.28,3086.62,Card,car,No,3,E-MUM-4
+TXN1010,13-01-2024,19:18:00,IOCL,pune-pump-06,pune,power petrol,7.89,99.94,788.53,Card,bike,Yes,5,E-PUN-2
+TXN1011,22-11-2025,23:45:00,BPCL,pune-pump-06,pune,diesel,11.12,87.46,972.56,UPI,bike,Yes,5,E-PUN-5
+TXN1012,03-02-2024,15:45:00,IOCL,mumbai-pump-04,mumbai,diesel,18.76,87.62,1643.75,Card,car,Yes,1,E-MUM-3
+TXN1013,29-03-2024,00:30:00,IOCL,delhi-pump-01,delhi,power petrol,5.41,99,535.59,Card,bike,No,1,E-DEL-1
+TXN1014,10-04-2025,12:35:00,BPCL,delhi-pump-04,delhi,power petrol,9.85,99.19,977.02,Card,bike,No,2,E-DEL-5
+TXN1015,25-06-2025,08:03:00,BPCL,chennai-pump-05,chennai,power petrol,11.32,99.61,1127.59,UPI,bike,Yes,2,E-CHE-1
+TXN1016,17-11-2025,03:22:00,HP,mumbai-pump-02,mumbai,petrol,13.13,94.32,1238.42,Cash,bike,No,2,E-MUM-4
+TXN1017,26-10-2024,21:28:00,IOCL,delhi-pump-01,delhi,diesel,27.28,87.99,2400.37,Cash,car,Yes,5,E-DEL-1
+TXN1018,20-03-2025,21:06:00,HP,bangalore-pump-07,bangalore,diesel,32.72,88,2879.36,Card,car,Yes,4,E-BAN-1
+TXN1019,07-06-2024,19:19:00,BPCL,mumbai-pump-04,mumbai,diesel,6.52,87.22,568.67,Card,bike,No,2,E-MUM-4
+TXN1020,08-03-2024,06:34:00,HP,delhi-pump-01,delhi,petrol,11.26,95.19,1071.84,UPI,bike,Yes,3,E-DEL-1
+TXN1021,21-08-2025,10:35:00,HP,delhi-pump-01,delhi,petrol,5.42,94.78,513.71,UPI,bike,No,4,E-DEL-4
+TXN1022,22-01-2024,07:39:00,IOCL,delhi-pump-04,delhi,power petrol,47.53,99.39,4724.01,Cash,car,No,2,E-DEL-4
+TXN1023,27-04-2025,12:46:00,IOCL,chennai-pump-03,chennai,petrol,17.19,94.57,1625.66,Card,car,No,5,E-CHE-5
+TXN1024,01-10-2025,22:40:00,IOCL,chennai-pump-03,chennai,diesel,49.83,87.51,4360.62,UPI,car,No,4,E-CHE-2
+TXN1025,01-08-2024,00:54:00,HP,chennai-pump-03,chennai,diesel,40.58,87.74,3560.49,Card,car,Yes,2,E-CHE-2
+TXN1026,21-07-2024,16:43:00,IOCL,pune-pump-01,pune,power petrol,8.09,99.6,805.76,Card,bike,No,2,E-PUN-5
+TXN1027,07-05-2024,06:59:00,BPCL,bangalore-pump-07,bangalore,diesel,23.75,87.63,2081.21,Card,car,No,2,E-BAN-1
+TXN1028,31-05-2025,14:34:00,BPCL,delhi-pump-04,delhi,petrol,7.88,94.64,745.76,Card,bike,Yes,2,E-DEL-4
+TXN1029,16-11-2024,18:22:00,IOCL,delhi-pump-04,delhi,petrol,13.09,94.71,1239.75,UPI,bike,Yes,3,E-DEL-4
+TXN1030,23-11-2024,10:59:00,BPCL,mumbai-pump-04,mumbai,petrol,24.31,94.42,2295.35,Card,car,Yes,2,E-MUM-3
+TXN1031,19-01-2024,22:59:00,IOCL,delhi-pump-04,delhi,diesel,47.92,87.56,4195.88,UPI,car,No,1,E-DEL-4
+TXN1032,06-02-2024,17:22:00,IOCL,mumbai-pump-04,mumbai,petrol,6.87,94.59,649.83,UPI,bike,No,2,E-MUM-3
+TXN1033,09-08-2025,03:05:00,BPCL,bangalore-pump-07,bangalore,petrol,10.94,95.05,1039.85,Cash,bike,Yes,1,E-BAN-1
+TXN1034,15-10-2024,19:40:00,IOCL,mumbai-pump-04,mumbai,petrol,10.67,95.08,1014.5,Card,bike,Yes,5,E-MUM-3
+TXN1035,26-05-2025,05:58:00,BPCL,mumbai-pump-04,mumbai,diesel,6.09,87.78,534.58,Card,bike,No,4,E-MUM-5
+TXN1036,31-01-2025,19:33:00,BPCL,bangalore-pump-07,bangalore,power petrol,8.13,99.61,809.83,UPI,bike,No,4,E-BAN-3
+TXN1037,01-10-2024,17:02:00,BPCL,chennai-pump-03,chennai,diesel,9.3,87.98,818.21,UPI,bike,No,5,E-CHE-3
+TXN1038,05-04-2024,03:17:00,BPCL,pune-pump-01,pune,petrol,5.91,94.3,557.31,UPI,bike,No,2,E-PUN-5
+TXN1039,22-04-2024,18:57:00,HP,mumbai-pump-04,mumbai,power petrol,14.76,99.5,1468.62,Cash,bike,Yes,1,E-MUM-1
+TXN1040,23-12-2024,08:25:00,HP,pune-pump-01,pune,power petrol,30.87,99.27,3064.46,Card,car,Yes,1,E-PUN-1
+TXN1041,15-05-2025,06:04:00,IOCL,delhi-pump-01,delhi,diesel,39.67,87.39,3466.76,Cash,car,Yes,3,E-DEL-5
+TXN1042,06-01-2024,02:32:00,HP,delhi-pump-01,delhi,diesel,10.88,87.73,954.5,Card,bike,No,1,E-DEL-2
+TXN1043,27-06-2025,18:18:00,HP,delhi-pump-01,delhi,diesel,44.78,88.01,3941.09,Cash,car,Yes,2,E-DEL-1
+TXN1044,07-09-2025,21:46:00,HP,chennai-pump-03,chennai,petrol,8.35,95.13,794.34,Card,bike,Yes,4,E-CHE-3
+TXN1045,01-09-2024,05:58:00,HP,pune-pump-01,pune,diesel,10.45,88.01,919.7,UPI,bike,No,2,E-PUN-3
+TXN1046,19-05-2024,22:08:00,IOCL,mumbai-pump-02,mumbai,diesel,9.99,87.91,878.22,Card,bike,Yes,2,E-MUM-5
+TXN1047,30-06-2024,13:07:00,IOCL,bangalore-pump-07,bangalore,petrol,18.96,94.38,1789.44,Cash,car,Yes,3,E-BAN-3
+TXN1048,29-09-2025,00:38:00,HP,pune-pump-06,pune,petrol,12.93,94.61,1223.31,Cash,bike,No,2,E-PUN-5
+TXN1049,02-04-2025,07:13:00,BPCL,mumbai-pump-02,mumbai,petrol,10.1,95.2,961.52,Card,bike,No,1,E-MUM-5
+TXN1050,14-08-2024,20:44:00,HP,pune-pump-06,pune,diesel,43.66,87.58,3823.74,UPI,car,No,2,E-PUN-1
