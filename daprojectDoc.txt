@@ -1,0 +1,48 @@
+Project Activities 
+
+Data Collection & Cleaning:
+ preprocess transaction records
+ handling missing values 
+- adding the random dates
+- change decimal point to 2
+- changing every  alpha fields into lowe case
+- binary to Yes /No
+Descriptive Analysis: 
+Summarize sales patterns
+ fuel preference
+ payment methods
+ city-wise distributions
+  time trends
+
+Exploratory Data Analysis:
+ Identify outliers
+ visualize trends
+ segment transactions by company, city, and fuel type.
+
+Predictive Analytics: 
+
+using Algorith
+Decision Trees
+Random Forests 
+predict payment method, fuel choice, and loyalty program usage
+Performance Metrics: Analyze employee-level and pump-level efficiency, loyalty card usage, and vehicle trends.
+
+Visual Reporting
+Create interactive dashboards for all modules in Power BI.
+
+------------
+
+ Statistical Methods
+Descriptive Statistics: Central tendency, dispersion, frequency counts per major variable.
+
+Group Aggregations:
+ City-wise
+ company-wise
+ pump-wise 
+ summary statistics.
+
+Correlation & Regression:
+Relationship between price per liter, quantity sold, and total amount to find pricing impact.
+
+Forecasting: Modeling future sales by fuel type, city, or pump using time series methods.
+
